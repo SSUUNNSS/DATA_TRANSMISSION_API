@@ -68,9 +68,6 @@ class EgnyteClient:
             params={
                 "list_content": "true",
                 "count": count,
-                "offset": 0,
-                "sort_by": "last_modified",
-                "sort_direction": "descending",
             },
         )
         payload: dict[str, Any] = response.json()
