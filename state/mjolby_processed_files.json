@@ -262,6 +262,186 @@
       "messages_published": 460,
       "messages_failed": 0,
       "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005082505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:08:46.598997+00:00",
+      "send_mode": "normal",
+      "records_read": 4285,
+      "messages_built": 2757,
+      "messages_published": 2757,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005084006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:09:37.569410+00:00",
+      "send_mode": "normal",
+      "records_read": 4007,
+      "messages_built": 2659,
+      "messages_published": 2659,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005085505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:10:34.016783+00:00",
+      "send_mode": "normal",
+      "records_read": 4694,
+      "messages_built": 2929,
+      "messages_published": 2929,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005091012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:20.651997+00:00",
+      "send_mode": "normal",
+      "records_read": 4593,
+      "messages_built": 2944,
+      "messages_published": 2944,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005092505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:28:22.109473+00:00",
+      "send_mode": "normal",
+      "records_read": 4407,
+      "messages_built": 2833,
+      "messages_published": 2833,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005094006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:43:11.491289+00:00",
+      "send_mode": "normal",
+      "records_read": 4267,
+      "messages_built": 2717,
+      "messages_published": 2717,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005095507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:58:20.301935+00:00",
+      "send_mode": "normal",
+      "records_read": 4377,
+      "messages_built": 2847,
+      "messages_published": 2847,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005101014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:13.923602+00:00",
+      "send_mode": "normal",
+      "records_read": 4447,
+      "messages_built": 2923,
+      "messages_published": 2923,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005102505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:10.260166+00:00",
+      "send_mode": "normal",
+      "records_read": 4183,
+      "messages_built": 2807,
+      "messages_published": 2807,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005104006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:08.084698+00:00",
+      "send_mode": "normal",
+      "records_read": 4049,
+      "messages_built": 2679,
+      "messages_published": 2679,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005105506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:11.638602+00:00",
+      "send_mode": "normal",
+      "records_read": 4193,
+      "messages_built": 2760,
+      "messages_published": 2760,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005111008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:16.971984+00:00",
+      "send_mode": "normal",
+      "records_read": 4701,
+      "messages_built": 3029,
+      "messages_published": 3029,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005112505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:22.343568+00:00",
+      "send_mode": "normal",
+      "records_read": 4892,
+      "messages_built": 2969,
+      "messages_published": 2969,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005114006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:15.365523+00:00",
+      "send_mode": "normal",
+      "records_read": 4778,
+      "messages_built": 2818,
+      "messages_published": 2818,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005115506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:13.131432+00:00",
+      "send_mode": "normal",
+      "records_read": 4628,
+      "messages_built": 2793,
+      "messages_published": 2793,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005121007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:20.641451+00:00",
+      "send_mode": "normal",
+      "records_read": 4978,
+      "messages_built": 2927,
+      "messages_published": 2927,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005122505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:12.586466+00:00",
+      "send_mode": "normal",
+      "records_read": 4923,
+      "messages_built": 2900,
+      "messages_published": 2900,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/mjolby_261005124006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:17.273869+00:00",
+      "send_mode": "normal",
+      "records_read": 5113,
+      "messages_built": 3000,
+      "messages_published": 3000,
+      "messages_failed": 0,
+      "messages_skipped": 0
     }
   }
 }

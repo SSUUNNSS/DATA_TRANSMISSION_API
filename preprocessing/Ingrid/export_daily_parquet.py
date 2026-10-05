@@ -35,7 +35,10 @@ from pathlib import Path
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from preprocessing_utils import Batch, iter_resampled, list_batches
+try:
+    from .preprocessing_utils import Batch, iter_resampled, list_batches
+except ImportError:
+    from preprocessing_utils import Batch, iter_resampled, list_batches
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_SOURCE_DIR = PROJECT_ROOT / "src" / "sourceData" / "normal" / "falkoping"
@@ -102,6 +105,11 @@ def _write_chunk(
 
 def export_batch(batch, output_path: Path) -> int:
     """把一天（一个 batch）重采样后写入一个 parquet，返回写入行数。"""
+    return export_records(iter_resampled(batch), output_path)
+
+
+def export_records(records, output_path: Path) -> int:
+    """Write already resampled records using the shared schema and chunking."""
     schema = pa.schema(
         [
             pa.field("ts_utc", pa.timestamp("us", tz="UTC")),
@@ -117,7 +125,7 @@ def export_batch(batch, output_path: Path) -> int:
     total = 0
 
     try:
-        for record in iter_resampled(batch):
+        for record in records:
             ts_list.append(_to_micros(record.ts_utc))
             metric_list.append(str(record.metric))
             value_list.append(float(record.value))

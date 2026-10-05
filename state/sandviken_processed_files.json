@@ -1,0 +1,184 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/sandviken_261005082507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:09:21.913907+00:00",
+      "send_mode": "normal",
+      "records_read": 10833,
+      "messages_built": 6594,
+      "messages_published": 6594,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005084008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:18.862073+00:00",
+      "send_mode": "normal",
+      "records_read": 10910,
+      "messages_built": 6768,
+      "messages_published": 6768,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005085508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:24.602764+00:00",
+      "send_mode": "normal",
+      "records_read": 11461,
+      "messages_built": 6966,
+      "messages_published": 6966,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005091015.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:15:11.387851+00:00",
+      "send_mode": "normal",
+      "records_read": 10963,
+      "messages_built": 6907,
+      "messages_published": 6907,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005092507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:29:05.351267+00:00",
+      "send_mode": "normal",
+      "records_read": 10554,
+      "messages_built": 6685,
+      "messages_published": 6685,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005094008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:44:00.717584+00:00",
+      "send_mode": "normal",
+      "records_read": 10462,
+      "messages_built": 6491,
+      "messages_published": 6491,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005095509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:00.228022+00:00",
+      "send_mode": "normal",
+      "records_read": 10091,
+      "messages_built": 6416,
+      "messages_published": 6416,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005101020.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:57.339842+00:00",
+      "send_mode": "normal",
+      "records_read": 10050,
+      "messages_built": 6486,
+      "messages_published": 6486,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005102507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:47.538912+00:00",
+      "send_mode": "normal",
+      "records_read": 9735,
+      "messages_built": 6243,
+      "messages_published": 6243,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005104008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:45.749778+00:00",
+      "send_mode": "normal",
+      "records_read": 10026,
+      "messages_built": 6331,
+      "messages_published": 6331,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005105508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:52.877002+00:00",
+      "send_mode": "normal",
+      "records_read": 10140,
+      "messages_built": 6472,
+      "messages_published": 6472,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005111011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:41.461953+00:00",
+      "send_mode": "normal",
+      "records_read": 8621,
+      "messages_built": 5517,
+      "messages_published": 5517,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005112507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:33.326234+00:00",
+      "send_mode": "normal",
+      "records_read": 7941,
+      "messages_built": 4512,
+      "messages_published": 4512,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005114008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:31.117058+00:00",
+      "send_mode": "normal",
+      "records_read": 8332,
+      "messages_built": 4627,
+      "messages_published": 4627,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005115508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:30.908164+00:00",
+      "send_mode": "normal",
+      "records_read": 8358,
+      "messages_built": 4619,
+      "messages_published": 4619,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005121009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:38.026573+00:00",
+      "send_mode": "normal",
+      "records_read": 8493,
+      "messages_built": 4798,
+      "messages_published": 4798,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005122507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:31.696275+00:00",
+      "send_mode": "normal",
+      "records_read": 8164,
+      "messages_built": 4589,
+      "messages_published": 4589,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/sandviken_261005124008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:31.992274+00:00",
+      "send_mode": "normal",
+      "records_read": 7760,
+      "messages_built": 4515,
+      "messages_published": 4515,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

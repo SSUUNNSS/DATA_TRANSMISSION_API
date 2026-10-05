@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "8aa63cfb-0c71-4145-a94d-c3ffad8479c5:365e6ead-4c95-40d4-9462-1cd530c64b8f": {
+      "filename": "katrineholm_261005082503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005082503",
+      "processed_at": "2026-10-05T09:08:06.418772+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005082503.parquet"
+    },
+    "acc27838-5400-40ea-8bbd-276f49c9cdc7:20801a9a-bd70-4d89-a90d-e4ea37cefceb": {
+      "filename": "katrineholm_261005084003",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005084003",
+      "processed_at": "2026-10-05T09:08:08.955379+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005084003.parquet"
+    },
+    "53225265-db04-4947-8889-405c5bd78334:3fd2ff23-0983-4bfe-8a4e-ecd18611443d": {
+      "filename": "katrineholm_261005085503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005085503",
+      "processed_at": "2026-10-05T09:08:11.657036+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005085503.parquet"
+    },
+    "78c3cc01-b66c-43da-9245-383eef324b79:95456360-8a21-4988-9843-8c0a521e1eeb": {
+      "filename": "katrineholm_261005091008",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005091008",
+      "processed_at": "2026-10-05T09:12:21.014755+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005091008.parquet"
+    },
+    "8e026a2d-6c87-49cb-870f-642d5f6ac49f:ec4b3384-8af8-4afc-87d1-9757c041894c": {
+      "filename": "katrineholm_261005092503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005092503",
+      "processed_at": "2026-10-05T09:27:20.026764+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005092503.parquet"
+    },
+    "64971bcd-0ac0-4c3b-a307-422bae819009:fcb612bb-6578-4265-be77-ae1d0678889b": {
+      "filename": "katrineholm_261005094004",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005094004",
+      "processed_at": "2026-10-05T09:42:20.042482+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005094004.parquet"
+    },
+    "e2cc3a56-df51-41a4-ae36-be678478e641:0b4fb8e2-22d6-4a52-a8bb-9ec7ed3bc75d": {
+      "filename": "katrineholm_261005095504",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005095504",
+      "processed_at": "2026-10-05T09:57:21.586635+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005095504.parquet"
+    },
+    "0207cf44-38a0-474e-906b-66a1bb342b17:4ec8639e-a6d6-449d-a537-6a0d3f4cc7f6": {
+      "filename": "katrineholm_261005101010",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005101010",
+      "processed_at": "2026-10-05T10:12:19.569855+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005101010.parquet"
+    },
+    "1fcfbcb1-4afe-4d08-bcb5-393b7744838f:8a7f2c86-62df-49d4-92df-7d0828f77f72": {
+      "filename": "katrineholm_261005102503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005102503",
+      "processed_at": "2026-10-05T10:27:19.245659+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005102503.parquet"
+    },
+    "a5e9e0ee-4b13-4ccf-a686-087b6a4ad8e5:505c690c-c2bc-4d0a-ae39-7766d1e6e7d4": {
+      "filename": "katrineholm_261005104003",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005104003",
+      "processed_at": "2026-10-05T10:42:18.002271+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005104003.parquet"
+    },
+    "fda879c8-0516-4268-901f-2116d4b39174:dd192231-4870-4ccb-9e06-59ccb3f2d272": {
+      "filename": "katrineholm_261005105503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005105503",
+      "processed_at": "2026-10-05T10:57:19.715787+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005105503.parquet"
+    },
+    "eb7da0b3-c54a-4941-8e9e-1ab31a2c25ea:6dd00848-dca6-4507-b0a3-31f2f8d82c56": {
+      "filename": "katrineholm_261005111005",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005111005",
+      "processed_at": "2026-10-05T11:12:20.243602+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005111005.parquet"
+    },
+    "78c8593e-752f-4638-9778-4f5ab0e8cede:378c83d9-2efb-40ed-bdbc-3e5fcf444caa": {
+      "filename": "katrineholm_261005112503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005112503",
+      "processed_at": "2026-10-05T11:27:25.246073+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005112503.parquet"
+    },
+    "6bc2541a-c551-4fd4-9bb8-c5db85f311d8:2b776165-75ad-4b55-941f-df266b9f5478": {
+      "filename": "katrineholm_261005114003",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005114003",
+      "processed_at": "2026-10-05T11:42:19.799723+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005114003.parquet"
+    },
+    "e12f74bf-602d-4e67-85bc-9cd135c6e2fc:57988900-9c22-44dc-aa5b-8a9ba772b03c": {
+      "filename": "katrineholm_261005115503",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005115503",
+      "processed_at": "2026-10-05T11:57:19.375103+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005115503.parquet"
+    },
+    "2d0e9d83-4c52-4f30-97b8-1bbb2d7f6493:b9fd031f-7fbd-44c2-8ac8-8ab339ccae09": {
+      "filename": "katrineholm_261005121004",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005121004",
+      "processed_at": "2026-10-05T12:12:20.575918+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005121004.parquet"
+    },
+    "3cc78fda-e147-4efb-8817-e9031d8f5790:b9e2a68b-23b2-4d11-8c47-08c8dbe3b715": {
+      "filename": "katrineholm_261005122502",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005122502",
+      "processed_at": "2026-10-05T12:27:18.922764+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005122502.parquet"
+    },
+    "5c347d1e-3e58-4018-a1f0-55c41378b31e:8b14fb64-b424-4528-ba4d-752e6b5daa19": {
+      "filename": "katrineholm_261005124004",
+      "remote_path": "/Shared/KATRINEHOLM/2026-10-05/katrineholm_261005124004",
+      "processed_at": "2026-10-05T12:42:19.691088+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\katrineholm\\2026-10-05\\katrineholm_261005124004.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

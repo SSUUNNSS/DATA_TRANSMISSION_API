@@ -1,0 +1,194 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/gavle_261005081002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:21:50.756682+00:00",
+      "send_mode": "normal",
+      "records_read": 6831,
+      "messages_built": 4092,
+      "messages_published": 4092,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005082501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:27:51.862646+00:00",
+      "send_mode": "normal",
+      "records_read": 6753,
+      "messages_built": 3847,
+      "messages_published": 3847,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005084002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:42:56.810332+00:00",
+      "send_mode": "normal",
+      "records_read": 7015,
+      "messages_built": 4076,
+      "messages_published": 4076,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005085501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:58:00.396919+00:00",
+      "send_mode": "normal",
+      "records_read": 7273,
+      "messages_built": 4212,
+      "messages_published": 4212,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005091002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:59.821400+00:00",
+      "send_mode": "normal",
+      "records_read": 7546,
+      "messages_built": 4285,
+      "messages_published": 4285,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005092501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:28:51.519934+00:00",
+      "send_mode": "normal",
+      "records_read": 7533,
+      "messages_built": 4047,
+      "messages_published": 4047,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005094002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:43:59.193037+00:00",
+      "send_mode": "normal",
+      "records_read": 7635,
+      "messages_built": 4017,
+      "messages_published": 4017,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005095502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:02.407299+00:00",
+      "send_mode": "normal",
+      "records_read": 7614,
+      "messages_built": 4131,
+      "messages_published": 4131,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005101008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:59.047661+00:00",
+      "send_mode": "normal",
+      "records_read": 7795,
+      "messages_built": 4192,
+      "messages_published": 4192,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005102501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:45.565906+00:00",
+      "send_mode": "normal",
+      "records_read": 7397,
+      "messages_built": 4120,
+      "messages_published": 4120,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005104002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:47.574935+00:00",
+      "send_mode": "normal",
+      "records_read": 7501,
+      "messages_built": 4106,
+      "messages_published": 4106,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005105502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:51.483229+00:00",
+      "send_mode": "normal",
+      "records_read": 7633,
+      "messages_built": 4129,
+      "messages_published": 4129,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005111002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:47.576623+00:00",
+      "send_mode": "normal",
+      "records_read": 7363,
+      "messages_built": 4062,
+      "messages_published": 4062,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005112502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:53.710322+00:00",
+      "send_mode": "normal",
+      "records_read": 7440,
+      "messages_built": 4202,
+      "messages_published": 4202,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005114001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:41.179491+00:00",
+      "send_mode": "normal",
+      "records_read": 7051,
+      "messages_built": 3792,
+      "messages_published": 3792,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005115501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:45.122485+00:00",
+      "send_mode": "normal",
+      "records_read": 7086,
+      "messages_built": 4038,
+      "messages_published": 4038,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005121002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:48.350054+00:00",
+      "send_mode": "normal",
+      "records_read": 6877,
+      "messages_built": 3842,
+      "messages_published": 3842,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005122501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:39.869129+00:00",
+      "send_mode": "normal",
+      "records_read": 6401,
+      "messages_built": 3702,
+      "messages_published": 3702,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/gavle_261005124002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:41.135820+00:00",
+      "send_mode": "normal",
+      "records_read": 6264,
+      "messages_built": 3676,
+      "messages_published": 3676,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

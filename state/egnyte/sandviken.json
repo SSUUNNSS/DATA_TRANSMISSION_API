@@ -1,0 +1,131 @@
+{
+  "processed_files": {
+    "af1b4c1e-f704-4b78-a7fb-ff2e7f48791a:eb0a5741-847d-4cb3-9e25-edc1b0a2818b": {
+      "filename": "sandviken_261001221014",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-02/sandviken_261001221014",
+      "processed_at": "2026-10-02T14:17:47.643895+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-02\\sandviken_261001221014.parquet"
+    },
+    "aa062c5f-4679-4fdd-aff2-07132c67be5d:bc6d335b-3751-4a7b-a603-989a12368b0a": {
+      "filename": "sandviken_261001222507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-02/sandviken_261001222507",
+      "processed_at": "2026-10-02T14:17:49.828347+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-02\\sandviken_261001222507.parquet"
+    },
+    "949e801c-e2e8-4397-ac2a-bfe69a7cbc29:aa0a499e-0bdb-48ba-88c6-40970f7bdb7f": {
+      "filename": "sandviken_261001224008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-02/sandviken_261001224008",
+      "processed_at": "2026-10-02T14:17:51.854944+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-02\\sandviken_261001224008.parquet"
+    },
+    "cb1146e9-8234-44bc-9f54-8294256e01b5:65d74b23-7782-419d-aa5a-31bd314c5906": {
+      "filename": "sandviken_261005082507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005082507",
+      "processed_at": "2026-10-05T09:07:38.347501+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005082507.parquet"
+    },
+    "0fb4939b-330d-4c7a-83fe-585094c43f6c:e11a8578-19f7-4636-856a-2e4cc19c1861": {
+      "filename": "sandviken_261005084008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005084008",
+      "processed_at": "2026-10-05T09:07:40.588228+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005084008.parquet"
+    },
+    "6a1f00de-3fc1-4f5d-8128-470f9e7f6410:badb3024-7bc5-4ea5-a2fc-bd71a4218246": {
+      "filename": "sandviken_261005085508",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005085508",
+      "processed_at": "2026-10-05T09:07:43.057288+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005085508.parquet"
+    },
+    "f436085c-88f5-4cac-8d53-4d1643e66370:f2cb2aff-6ea0-4e00-b2a2-ee79680ebcf7": {
+      "filename": "sandviken_261005091015",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005091015",
+      "processed_at": "2026-10-05T09:12:07.982565+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005091015.parquet"
+    },
+    "ac6d73d9-fe57-4684-b6cd-e13c95b5cd41:0e89b2ce-dca8-481f-8ce8-c62d1cdd4aa1": {
+      "filename": "sandviken_261005092507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005092507",
+      "processed_at": "2026-10-05T09:27:07.933552+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005092507.parquet"
+    },
+    "c13e1f10-228c-434e-88fe-ad78db2d4238:8cc0bff4-693b-43bc-8c3a-dab48e48a42e": {
+      "filename": "sandviken_261005094008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005094008",
+      "processed_at": "2026-10-05T09:42:07.298459+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005094008.parquet"
+    },
+    "b762c69c-034b-4fc1-bb2f-be1c2a27eaa9:244aaa56-06f0-4c39-83d2-eee9d4848db6": {
+      "filename": "sandviken_261005095509",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005095509",
+      "processed_at": "2026-10-05T09:57:08.212460+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005095509.parquet"
+    },
+    "195b7465-0989-4671-9f01-d8c6542c7536:b982bfeb-b04f-4f6f-891f-6f5d62726ddf": {
+      "filename": "sandviken_261005101020",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005101020",
+      "processed_at": "2026-10-05T10:12:07.276356+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005101020.parquet"
+    },
+    "48a1c949-98ab-4022-8c0c-88f240b25eab:b76766c9-a947-46c7-8fe1-c3ec31fccbad": {
+      "filename": "sandviken_261005102507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005102507",
+      "processed_at": "2026-10-05T10:27:07.050147+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005102507.parquet"
+    },
+    "91c5e001-3f72-4078-bd7d-122e8e3aa3e8:47e942cd-3fe4-45c2-82be-614b058df94a": {
+      "filename": "sandviken_261005104008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005104008",
+      "processed_at": "2026-10-05T10:42:06.872594+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005104008.parquet"
+    },
+    "043fb7b1-a22f-41a0-80b2-353b88976e88:70dac2ac-3d73-4d4a-b91a-f9febe4e9e54": {
+      "filename": "sandviken_261005105508",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005105508",
+      "processed_at": "2026-10-05T10:57:07.814199+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005105508.parquet"
+    },
+    "db80dfe7-50b5-44cb-b13f-66b4de4daa3a:d467a0b8-41c8-4713-b23a-d3b389c04d01": {
+      "filename": "sandviken_261005111011",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005111011",
+      "processed_at": "2026-10-05T11:12:07.587427+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005111011.parquet"
+    },
+    "94e39037-8f1e-4b9b-8bc2-2dcd093800ee:f572c775-f655-420f-b5c4-6d648f52c139": {
+      "filename": "sandviken_261005112507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005112507",
+      "processed_at": "2026-10-05T11:27:11.759364+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005112507.parquet"
+    },
+    "2efd6212-31f3-4bfb-8990-2d6f9e87dbee:daf75dce-0757-460a-914a-155bc10343c0": {
+      "filename": "sandviken_261005114008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005114008",
+      "processed_at": "2026-10-05T11:42:07.080761+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005114008.parquet"
+    },
+    "c789f71e-f948-4294-8c23-33dddb902725:53dd64cc-5580-4a20-bdcd-9075ef90e284": {
+      "filename": "sandviken_261005115508",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005115508",
+      "processed_at": "2026-10-05T11:57:07.001909+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005115508.parquet"
+    },
+    "8326048d-f347-41dc-9606-7805b2d10945:f1b96efd-5054-4f78-8285-651c4d2aafd9": {
+      "filename": "sandviken_261005121009",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005121009",
+      "processed_at": "2026-10-05T12:12:08.015712+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005121009.parquet"
+    },
+    "9a666ecf-abd5-4c69-a5de-54681cceebe1:580d76af-ce8c-489e-9eb2-41892f9d9e5b": {
+      "filename": "sandviken_261005122507",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005122507",
+      "processed_at": "2026-10-05T12:27:07.296121+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005122507.parquet"
+    },
+    "62b802f3-3a7c-417e-bf07-36ebadf00da5:a6859624-cafa-4d3b-b1dd-df1ca133c1a6": {
+      "filename": "sandviken_261005124008",
+      "remote_path": "/Shared/SANDVIKEN/2026-10-05/sandviken_261005124008",
+      "processed_at": "2026-10-05T12:42:07.772656+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sandviken\\2026-10-05\\sandviken_261005124008.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

@@ -1,0 +1,194 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/eslov_261005081014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:22:14.813221+00:00",
+      "send_mode": "normal",
+      "records_read": 13565,
+      "messages_built": 6490,
+      "messages_published": 6490,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005082509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:28:18.427157+00:00",
+      "send_mode": "normal",
+      "records_read": 10955,
+      "messages_built": 6544,
+      "messages_published": 6544,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005084009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:43:11.632861+00:00",
+      "send_mode": "normal",
+      "records_read": 9665,
+      "messages_built": 5683,
+      "messages_published": 5683,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005085510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T08:58:23.392557+00:00",
+      "send_mode": "normal",
+      "records_read": 10897,
+      "messages_built": 6566,
+      "messages_published": 6566,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005091017.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:14:29.187851+00:00",
+      "send_mode": "normal",
+      "records_read": 13281,
+      "messages_built": 6698,
+      "messages_published": 6698,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005092508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:29:11.863553+00:00",
+      "send_mode": "normal",
+      "records_read": 10005,
+      "messages_built": 5880,
+      "messages_published": 5880,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005094009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:44:19.255992+00:00",
+      "send_mode": "normal",
+      "records_read": 10659,
+      "messages_built": 6259,
+      "messages_published": 6259,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005095510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:19.043897+00:00",
+      "send_mode": "normal",
+      "records_read": 10225,
+      "messages_built": 6060,
+      "messages_published": 6060,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005101012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:14:22.583634+00:00",
+      "send_mode": "normal",
+      "records_read": 13102,
+      "messages_built": 6532,
+      "messages_published": 6532,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005102507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:29:02.206373+00:00",
+      "send_mode": "normal",
+      "records_read": 10395,
+      "messages_built": 5904,
+      "messages_published": 5904,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005104009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:44:07.093087+00:00",
+      "send_mode": "normal",
+      "records_read": 11059,
+      "messages_built": 6136,
+      "messages_published": 6136,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005105510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:59:12.410518+00:00",
+      "send_mode": "normal",
+      "records_read": 11002,
+      "messages_built": 6143,
+      "messages_published": 6143,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005111021.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:14:10.320028+00:00",
+      "send_mode": "normal",
+      "records_read": 13388,
+      "messages_built": 6354,
+      "messages_published": 6354,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005112508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:29:16.315353+00:00",
+      "send_mode": "normal",
+      "records_read": 11184,
+      "messages_built": 6325,
+      "messages_published": 6325,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005114009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:44:05.744789+00:00",
+      "send_mode": "normal",
+      "records_read": 10742,
+      "messages_built": 6194,
+      "messages_published": 6194,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005115509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:59:04.085834+00:00",
+      "send_mode": "normal",
+      "records_read": 10377,
+      "messages_built": 5982,
+      "messages_published": 5982,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005121015.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:14:15.399959+00:00",
+      "send_mode": "normal",
+      "records_read": 12602,
+      "messages_built": 6326,
+      "messages_published": 6326,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005122507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:56.786069+00:00",
+      "send_mode": "normal",
+      "records_read": 9025,
+      "messages_built": 5221,
+      "messages_published": 5221,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/eslov_261005124008.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:57.926919+00:00",
+      "send_mode": "normal",
+      "records_read": 9043,
+      "messages_built": 5440,
+      "messages_published": 5440,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

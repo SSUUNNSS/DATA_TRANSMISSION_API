@@ -39,6 +39,186 @@
       "messages_published": 133478,
       "messages_failed": 0,
       "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005082512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:09:34.510343+00:00",
+      "send_mode": "normal",
+      "records_read": 10594,
+      "messages_built": 6503,
+      "messages_published": 6503,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005084014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:21.337952+00:00",
+      "send_mode": "normal",
+      "records_read": 9967,
+      "messages_built": 6252,
+      "messages_published": 6252,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005085514.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:23.222808+00:00",
+      "send_mode": "normal",
+      "records_read": 10877,
+      "messages_built": 6695,
+      "messages_published": 6695,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005091027.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:15:08.659594+00:00",
+      "send_mode": "normal",
+      "records_read": 10967,
+      "messages_built": 6656,
+      "messages_published": 6656,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005092512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:29:04.503202+00:00",
+      "send_mode": "normal",
+      "records_read": 10558,
+      "messages_built": 6333,
+      "messages_published": 6333,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005094014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:44:01.480284+00:00",
+      "send_mode": "normal",
+      "records_read": 11014,
+      "messages_built": 6457,
+      "messages_published": 6457,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005095516.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:06.009771+00:00",
+      "send_mode": "normal",
+      "records_read": 10513,
+      "messages_built": 6373,
+      "messages_published": 6373,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005101032.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:14:01.685900+00:00",
+      "send_mode": "normal",
+      "records_read": 10889,
+      "messages_built": 6507,
+      "messages_published": 6507,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005102512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:53.621845+00:00",
+      "send_mode": "normal",
+      "records_read": 10583,
+      "messages_built": 6419,
+      "messages_published": 6419,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005104014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:53.502910+00:00",
+      "send_mode": "normal",
+      "records_read": 11165,
+      "messages_built": 6547,
+      "messages_published": 6547,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005105515.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:59.102287+00:00",
+      "send_mode": "normal",
+      "records_read": 11295,
+      "messages_built": 6688,
+      "messages_published": 6688,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005111017.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:55.825873+00:00",
+      "send_mode": "normal",
+      "records_read": 11060,
+      "messages_built": 6668,
+      "messages_published": 6668,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005112512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:29:02.944853+00:00",
+      "send_mode": "normal",
+      "records_read": 11320,
+      "messages_built": 6704,
+      "messages_published": 6704,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005114013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:55.243455+00:00",
+      "send_mode": "normal",
+      "records_read": 11049,
+      "messages_built": 6461,
+      "messages_published": 6461,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005115514.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:56.209840+00:00",
+      "send_mode": "normal",
+      "records_read": 10604,
+      "messages_built": 6157,
+      "messages_published": 6157,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005121016.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:49.340208+00:00",
+      "send_mode": "normal",
+      "records_read": 9434,
+      "messages_built": 5290,
+      "messages_published": 5290,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005122511.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:32.082916+00:00",
+      "send_mode": "normal",
+      "records_read": 8146,
+      "messages_built": 4355,
+      "messages_published": 4355,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/varnamo_261005124013.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:35.313306+00:00",
+      "send_mode": "normal",
+      "records_read": 8230,
+      "messages_built": 4455,
+      "messages_published": 4455,
+      "messages_failed": 0,
+      "messages_skipped": 0
     }
   }
 }

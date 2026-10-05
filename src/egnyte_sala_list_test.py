@@ -1,21 +1,15 @@
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 from egnyte import EgnyteClient
 
 
-DOMAIN = "scadadata.egnyte.com"
 SALA_FOLDER = "/Shared/SALA"
 
 
 def main() -> None:
-    token = os.environ.get("EGNYTE_ACCESS_TOKEN", "").strip()
-    if not token:
-        raise SystemExit("Missing EGNYTE_ACCESS_TOKEN environment variable.")
-
-    client = EgnyteClient(DOMAIN, token)
+    client = EgnyteClient.from_environment()
     files = client.list_files(SALA_FOLDER, count=100)
 
     candidates = [

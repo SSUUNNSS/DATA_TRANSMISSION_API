@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "b9679eb9-c44e-4775-bee0-05a48ed11913:5606e67f-dc85-48e2-834b-18fb7200c505": {
+      "filename": "lerum_261005082506",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005082506",
+      "processed_at": "2026-10-05T09:08:50.342256+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005082506.parquet"
+    },
+    "9ee9877e-4097-472b-b44a-d230afd0d977:0c0254ff-90f8-4d9f-a30a-6a77bb5504e4": {
+      "filename": "lerum_261005084007",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005084007",
+      "processed_at": "2026-10-05T09:08:53.637615+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005084007.parquet"
+    },
+    "b953799c-ce04-4dc4-9d0d-71b69958bfbe:42a9c7ee-53b4-42a3-9075-a21197976768": {
+      "filename": "lerum_261005085508",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005085508",
+      "processed_at": "2026-10-05T09:08:57.121635+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005085508.parquet"
+    },
+    "ee267a41-ce23-4a9d-aea4-32863d528096:d45c0240-6cec-400b-ac6f-14e5d6a06e1c": {
+      "filename": "lerum_261005091014",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005091014",
+      "processed_at": "2026-10-05T09:12:45.157321+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005091014.parquet"
+    },
+    "c68ff115-3880-45c0-a632-290d6f2cbc21:ccc0bd2c-542f-4d1e-a748-03d7a92f9543": {
+      "filename": "lerum_261005092506",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005092506",
+      "processed_at": "2026-10-05T09:27:42.314817+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005092506.parquet"
+    },
+    "b7e41f7f-8369-4bf6-abad-701c0560eb5c:cfefbf19-23c2-4fc8-924c-1e0f86ddf440": {
+      "filename": "lerum_261005094007",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005094007",
+      "processed_at": "2026-10-05T09:42:42.706240+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005094007.parquet"
+    },
+    "10f343fc-9d25-4f64-b5ad-9d9196393b1b:c7f7dd11-aade-49c7-806e-6f633db11450": {
+      "filename": "lerum_261005095507",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005095507",
+      "processed_at": "2026-10-05T09:57:45.991471+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005095507.parquet"
+    },
+    "5075cf57-8eda-45c7-8013-3565612d39b0:501180c3-513d-4421-b917-f989f501135b": {
+      "filename": "lerum_261005101009",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005101009",
+      "processed_at": "2026-10-05T10:12:42.479474+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005101009.parquet"
+    },
+    "3a0c7561-840e-4523-b73e-6a481c756550:08990efd-d254-432b-98a4-3bc7dd4ca47f": {
+      "filename": "lerum_261005102505",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005102505",
+      "processed_at": "2026-10-05T10:27:41.620054+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005102505.parquet"
+    },
+    "af5a8baa-394b-4008-b6b3-dbfa941bd029:b727377b-719f-44dd-a467-c9e207ad80e6": {
+      "filename": "lerum_261005104006",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005104006",
+      "processed_at": "2026-10-05T10:42:40.560146+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005104006.parquet"
+    },
+    "45a92d94-a55f-4a1a-8a69-18340f714dc9:552397d9-0bf4-4b1f-8ec7-04a9a13e121b": {
+      "filename": "lerum_261005105507",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005105507",
+      "processed_at": "2026-10-05T10:57:40.905329+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005105507.parquet"
+    },
+    "eeec34c5-625a-4dd8-850f-248ab5dba970:87464e82-9793-47bd-a8a1-d7519b057d8f": {
+      "filename": "lerum_261005111018",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005111018",
+      "processed_at": "2026-10-05T11:12:43.300205+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005111018.parquet"
+    },
+    "df99d3c4-47d4-4c1c-8b2b-89cd7445d9dc:5383cbf3-4fdf-4e85-b534-5a9c3de72dc5": {
+      "filename": "lerum_261005112505",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005112505",
+      "processed_at": "2026-10-05T11:27:48.838249+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005112505.parquet"
+    },
+    "effbb33f-a5e8-4605-b8b0-f69449c8c755:c5a2c9de-3234-440c-bc98-57197f2c47c5": {
+      "filename": "lerum_261005114006",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005114006",
+      "processed_at": "2026-10-05T11:42:41.772360+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005114006.parquet"
+    },
+    "6782b2c8-15aa-4682-96f9-cd813a7d2643:d96a4588-cd52-4717-a23c-c4774269e7a1": {
+      "filename": "lerum_261005115507",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005115507",
+      "processed_at": "2026-10-05T11:57:41.097024+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005115507.parquet"
+    },
+    "59d5b4d1-9117-4417-9636-c9ed64be0efb:3f1f5048-e481-4e7d-b4dc-65c99555d96e": {
+      "filename": "lerum_261005121012",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005121012",
+      "processed_at": "2026-10-05T12:12:43.610221+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005121012.parquet"
+    },
+    "613202a5-b010-438f-b744-ff469d9a1e37:9acac1ca-fcaf-4f82-9c72-8563e4d8cc70": {
+      "filename": "lerum_261005122505",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005122505",
+      "processed_at": "2026-10-05T12:27:41.129352+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005122505.parquet"
+    },
+    "150aab34-273e-411c-86c8-d1daaf04005a:6291f5f7-2446-4b19-be01-5a6a560b9e22": {
+      "filename": "lerum_261005124006",
+      "remote_path": "/Shared/LERUM/2026-10-05/lerum_261005124006",
+      "processed_at": "2026-10-05T12:42:41.862521+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\lerum\\2026-10-05\\lerum_261005124006.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

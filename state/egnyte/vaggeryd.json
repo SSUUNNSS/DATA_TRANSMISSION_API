@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "f171f591-2e8f-4f5e-9a5d-07f6154dc9a2:28b1e20e-6000-4765-b43a-56cee42e4863": {
+      "filename": "vaggeryd_261005082511",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005082511",
+      "processed_at": "2026-10-05T09:07:45.289076+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005082511.parquet"
+    },
+    "57bf4b73-a0e2-4436-a4ba-887dcca97ba9:9307c982-4b75-4b06-a8ea-ffe9c744d413": {
+      "filename": "vaggeryd_261005084013",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005084013",
+      "processed_at": "2026-10-05T09:07:47.095668+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005084013.parquet"
+    },
+    "1c492c7b-0203-437e-b9fc-c5afcf8b12c0:a70e5000-5a5d-4455-9e54-529edacfd2a6": {
+      "filename": "vaggeryd_261005085513",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005085513",
+      "processed_at": "2026-10-05T09:07:48.692088+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005085513.parquet"
+    },
+    "85218c2c-5ec6-445d-8d2a-69c335fc6dc0:1dd361c3-2aad-474e-a54d-a2a44e84abe5": {
+      "filename": "vaggeryd_261005091025",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005091025",
+      "processed_at": "2026-10-05T09:12:10.836316+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005091025.parquet"
+    },
+    "e687acb1-ae1d-4cbe-a529-1ca2d927c312:66c71e26-1e28-4b5b-971a-1ed77363e8de": {
+      "filename": "vaggeryd_261005092511",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005092511",
+      "processed_at": "2026-10-05T09:27:10.490373+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005092511.parquet"
+    },
+    "d4d9e651-2aaf-4fdc-92cd-b70e4318b550:84492f4b-187a-4ad0-8d6f-c87b5279b398": {
+      "filename": "vaggeryd_261005094013",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005094013",
+      "processed_at": "2026-10-05T09:42:09.605880+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005094013.parquet"
+    },
+    "3fb8dfe4-9bc2-47d8-8622-b9b2145da024:d58a5220-ca4e-424e-a02a-b5dde313c942": {
+      "filename": "vaggeryd_261005095514",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005095514",
+      "processed_at": "2026-10-05T09:57:10.359774+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005095514.parquet"
+    },
+    "5a07f0a3-f466-4b0c-8a6b-b6e91d5996cb:e20898cc-c72f-4286-9990-547297064c91": {
+      "filename": "vaggeryd_261005101030",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005101030",
+      "processed_at": "2026-10-05T10:12:09.871100+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005101030.parquet"
+    },
+    "13ffdd20-f78b-4129-b7bc-068cc2181dc8:263264a9-26e3-44f9-8690-b1835503991a": {
+      "filename": "vaggeryd_261005102510",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005102510",
+      "processed_at": "2026-10-05T10:27:09.574246+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005102510.parquet"
+    },
+    "2fd1224b-f988-48a1-93d0-10e792ad0607:843bbfda-c6e8-4344-bfc9-1c40164df6da": {
+      "filename": "vaggeryd_261005104012",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005104012",
+      "processed_at": "2026-10-05T10:42:09.601928+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005104012.parquet"
+    },
+    "590cd6fc-5618-4f86-8232-eff01974ad83:2ca890f7-326e-4160-8a82-775d73ab67d6": {
+      "filename": "vaggeryd_261005105513",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005105513",
+      "processed_at": "2026-10-05T10:57:10.361121+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005105513.parquet"
+    },
+    "69c7170c-504c-4bf8-a17c-960a3d5b8b60:b7aa1eb3-bbb3-4793-bef8-fa98fde2ff4a": {
+      "filename": "vaggeryd_261005111015",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005111015",
+      "processed_at": "2026-10-05T11:12:10.226878+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005111015.parquet"
+    },
+    "72cd28f5-4733-4732-ab35-90a87bdd4d86:ad2048ff-0624-4c59-a1cd-13cf88ba4e8e": {
+      "filename": "vaggeryd_261005112510",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005112510",
+      "processed_at": "2026-10-05T11:27:14.298447+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005112510.parquet"
+    },
+    "4ae740a2-d152-4abe-a7d2-fcdfab538b14:69ce216f-293a-4908-aeb0-b6c469e5da50": {
+      "filename": "vaggeryd_261005114011",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005114011",
+      "processed_at": "2026-10-05T11:42:09.742626+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005114011.parquet"
+    },
+    "4cb5d8cb-26fb-4ce1-b3aa-8550ccd83b8e:930053db-ecd1-45ea-9b28-6a844ed97dd7": {
+      "filename": "vaggeryd_261005115512",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005115512",
+      "processed_at": "2026-10-05T11:57:09.232369+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005115512.parquet"
+    },
+    "b035379a-a877-4f64-af7e-bb7b786f5a48:749ff419-7ea5-4d9a-966e-f5a51c0ca51f": {
+      "filename": "vaggeryd_261005121014",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005121014",
+      "processed_at": "2026-10-05T12:12:10.642649+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005121014.parquet"
+    },
+    "8fd8e089-bba0-46ca-aba5-85969226da68:2d1dd61a-771c-4aa3-884d-102e6af41405": {
+      "filename": "vaggeryd_261005122510",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005122510",
+      "processed_at": "2026-10-05T12:27:09.730375+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005122510.parquet"
+    },
+    "79a07f7d-9994-4949-a9ed-fa224c83fb82:b2ea79d6-478b-4e57-8271-6e30a2ac8173": {
+      "filename": "vaggeryd_261005124012",
+      "remote_path": "/Shared/VAGGERYD/2026-10-05/vaggeryd_261005124012",
+      "processed_at": "2026-10-05T12:42:09.902927+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vaggeryd\\2026-10-05\\vaggeryd_261005124012.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

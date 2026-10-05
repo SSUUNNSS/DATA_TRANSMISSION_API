@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "dde1cffa-6dfe-49f4-a96e-d07159b83fa7:641e245d-34e4-4986-bc1c-2c5908a061bf": {
+      "filename": "varnamo_261005082512",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005082512",
+      "processed_at": "2026-10-05T09:07:51.685463+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005082512.parquet"
+    },
+    "6624890c-cc2a-4743-af88-a9da2b3f3aeb:19e1674b-cc4a-4021-b611-6549ad8c1abf": {
+      "filename": "varnamo_261005084014",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005084014",
+      "processed_at": "2026-10-05T09:07:53.847058+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005084014.parquet"
+    },
+    "541e19ce-0b47-4b7e-9288-3d1aed4e40f9:c74fa637-272c-4121-a80a-880f4802caf7": {
+      "filename": "varnamo_261005085514",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005085514",
+      "processed_at": "2026-10-05T09:07:55.989252+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005085514.parquet"
+    },
+    "ec0265f7-8fe1-4796-8f23-656427e83bfe:108541f5-84f6-4e91-8db9-b368640eec78": {
+      "filename": "varnamo_261005091027",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005091027",
+      "processed_at": "2026-10-05T09:12:13.542926+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005091027.parquet"
+    },
+    "5119d67d-0bb4-4c0a-b1ec-10d15adb6e97:6e4e085a-810c-4293-8904-bfb3234b1d57": {
+      "filename": "varnamo_261005092512",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005092512",
+      "processed_at": "2026-10-05T09:27:13.514486+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005092512.parquet"
+    },
+    "d50661f9-e432-4b22-9888-ca7de4aad10f:8c6e38f3-a281-41a3-97ef-a153df35efd0": {
+      "filename": "varnamo_261005094014",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005094014",
+      "processed_at": "2026-10-05T09:42:12.724947+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005094014.parquet"
+    },
+    "a506811b-db2b-44a7-9d43-169616270b6c:eeb13fb0-f104-4a74-8be7-5f5a4e2e67f4": {
+      "filename": "varnamo_261005095516",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005095516",
+      "processed_at": "2026-10-05T09:57:13.374176+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005095516.parquet"
+    },
+    "d26e064f-7d1c-4844-b099-7bb30e5d241b:117ab5ac-a890-4e66-9d6c-18ebc5f11ad0": {
+      "filename": "varnamo_261005101032",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005101032",
+      "processed_at": "2026-10-05T10:12:12.856170+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005101032.parquet"
+    },
+    "f3a70022-08bd-45f2-b56c-ccf35e27609c:d8691c64-f4fa-47ac-a3aa-f0b9ac96c850": {
+      "filename": "varnamo_261005102512",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005102512",
+      "processed_at": "2026-10-05T10:27:12.716862+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005102512.parquet"
+    },
+    "a45d3036-2253-4acd-a779-931eaa3908c2:f16cfd6d-57e5-4290-9872-670563571086": {
+      "filename": "varnamo_261005104014",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005104014",
+      "processed_at": "2026-10-05T10:42:12.156324+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005104014.parquet"
+    },
+    "cda63a63-fb93-444d-836f-a54405177ec3:f2124cd2-38df-435d-98a6-75b925de85cf": {
+      "filename": "varnamo_261005105515",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005105515",
+      "processed_at": "2026-10-05T10:57:13.274612+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005105515.parquet"
+    },
+    "1600c528-536e-4392-a70d-80d14749499c:8c7f8151-ff7c-4fb7-add0-b8c525b8a2cf": {
+      "filename": "varnamo_261005111017",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005111017",
+      "processed_at": "2026-10-05T11:12:13.301968+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005111017.parquet"
+    },
+    "44717674-2e80-4d73-b825-c166b3a87591:2737d8be-9c27-4e78-a020-334c6bcd3e39": {
+      "filename": "varnamo_261005112512",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005112512",
+      "processed_at": "2026-10-05T11:27:18.215000+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005112512.parquet"
+    },
+    "5012c094-da5e-4a2f-bdf0-5843934893a5:b0e24c18-1fc3-4cbf-b518-857a5291f4be": {
+      "filename": "varnamo_261005114013",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005114013",
+      "processed_at": "2026-10-05T11:42:12.809691+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005114013.parquet"
+    },
+    "486ce0cc-76e0-4afb-8a77-d37b2409f1da:0f72bfd9-a33a-4a94-ae96-3852caaed304": {
+      "filename": "varnamo_261005115514",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005115514",
+      "processed_at": "2026-10-05T11:57:12.288234+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005115514.parquet"
+    },
+    "fdd8f574-bdd6-4beb-9a3c-0041e5fa6b07:ee47fb23-cdbb-4b46-a91b-d6aa74a4bd99": {
+      "filename": "varnamo_261005121016",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005121016",
+      "processed_at": "2026-10-05T12:12:13.310198+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005121016.parquet"
+    },
+    "444898d8-935b-4b9e-a67e-190208670316:e867f2ef-04d9-4028-abe5-0f5e12e670ef": {
+      "filename": "varnamo_261005122511",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005122511",
+      "processed_at": "2026-10-05T12:27:12.048524+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005122511.parquet"
+    },
+    "a7d5c662-00fb-4cc5-ae73-7d107f52f5fb:fc9ac636-0570-4dad-92e1-21cdd6394bbd": {
+      "filename": "varnamo_261005124013",
+      "remote_path": "/Shared/VARNAMO/2026-10-05/varnamo_261005124013",
+      "processed_at": "2026-10-05T12:42:12.314200+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\varnamo\\2026-10-05\\varnamo_261005124013.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "fe112422-27cb-4ebb-93bf-e95abff6ad5f:3a2ab139-6d2c-4f10-b298-8d98cc8e90ef": {
+      "filename": "goteborg_skogen_261005082510",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005082510",
+      "processed_at": "2026-10-05T09:08:31.977456+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005082510.parquet"
+    },
+    "fb9b9c96-46b9-49e7-a6cd-35ebee20be7e:d874bee3-309d-4654-aa41-4bc67fac7d44": {
+      "filename": "goteborg_skogen_261005084011",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005084011",
+      "processed_at": "2026-10-05T09:08:35.664539+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005084011.parquet"
+    },
+    "22a48418-8396-46c1-80e6-8d4d28658e12:24363baa-bfbb-4186-8405-c1518b67d40c": {
+      "filename": "goteborg_skogen_261005085513",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005085513",
+      "processed_at": "2026-10-05T09:08:39.139109+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005085513.parquet"
+    },
+    "22b4a474-56f5-4a29-a768-b9dabdcb7056:7138784a-8c1f-4877-aedd-6bdd1c998c0d": {
+      "filename": "goteborg_skogen_261005091020",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005091020",
+      "processed_at": "2026-10-05T09:12:37.398709+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005091020.parquet"
+    },
+    "00e2b7a5-d513-40a9-a133-5554464beeb2:db84b170-310c-43d5-88ba-4e16e826be53": {
+      "filename": "goteborg_skogen_261005092510",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005092510",
+      "processed_at": "2026-10-05T09:27:34.772998+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005092510.parquet"
+    },
+    "7d4252fe-c363-4aa4-bb09-4915f519f5d9:1d24fef9-b01c-4ac1-8526-f4c26ba602d0": {
+      "filename": "goteborg_skogen_261005094011",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005094011",
+      "processed_at": "2026-10-05T09:42:35.227260+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005094011.parquet"
+    },
+    "114b31ec-b5d0-4b05-87b9-dbaf3b64839f:5fceb7b5-f319-46cd-99c4-1c19c3bbadec": {
+      "filename": "goteborg_skogen_261005095512",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005095512",
+      "processed_at": "2026-10-05T09:57:37.795683+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005095512.parquet"
+    },
+    "64f5d1ca-80c6-446c-82ac-c724aea42289:f2605d1c-3599-4e9d-8452-49e86fcc2c5a": {
+      "filename": "goteborg_skogen_261005101014",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005101014",
+      "processed_at": "2026-10-05T10:12:34.879642+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005101014.parquet"
+    },
+    "dbb4f1b0-ec18-435a-a739-022534f0a04f:e5522d20-01b8-4e19-8350-2562149a2ca3": {
+      "filename": "goteborg_skogen_261005102509",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005102509",
+      "processed_at": "2026-10-05T10:27:34.014346+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005102509.parquet"
+    },
+    "54b47159-656f-4cb0-8525-1aefc1faec75:1ec3c3da-9445-4fcc-8a2e-d8d3f9e87102": {
+      "filename": "goteborg_skogen_261005104011",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005104011",
+      "processed_at": "2026-10-05T10:42:32.442250+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005104011.parquet"
+    },
+    "3588e939-83b4-4c92-b5e5-a43ae6a4af7b:e23d9ef2-27c3-473d-8e41-79fa5143ab3a": {
+      "filename": "goteborg_skogen_261005105512",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005105512",
+      "processed_at": "2026-10-05T10:57:33.268001+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005105512.parquet"
+    },
+    "3e430cb7-cca6-49a7-ab4f-1946d0e65761:5b524cf7-cdb6-4d2e-93e4-b1e52a6516ac": {
+      "filename": "goteborg_skogen_261005111023",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005111023",
+      "processed_at": "2026-10-05T11:12:35.803762+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005111023.parquet"
+    },
+    "4b5c6e63-b871-44b3-88e5-15a06a7a60a1:435b5cfd-ff08-4f25-b006-264ed6775904": {
+      "filename": "goteborg_skogen_261005112509",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005112509",
+      "processed_at": "2026-10-05T11:27:41.107225+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005112509.parquet"
+    },
+    "b54a0aa4-a6fe-4756-a3fd-654d2266f791:a59e3f0a-a192-4cd5-ba8f-c3f3d9706d42": {
+      "filename": "goteborg_skogen_261005114011",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005114011",
+      "processed_at": "2026-10-05T11:42:33.980959+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005114011.parquet"
+    },
+    "f7548da4-312e-4488-acfc-62e7d86b729f:1b19acbf-f100-440e-91d1-dd00d0bda313": {
+      "filename": "goteborg_skogen_261005115512",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005115512",
+      "processed_at": "2026-10-05T11:57:33.840204+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005115512.parquet"
+    },
+    "0fd845ff-0e98-4fa9-b78b-707350540659:149953aa-875e-4378-9126-85390cf34aa9": {
+      "filename": "goteborg_skogen_261005121018",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005121018",
+      "processed_at": "2026-10-05T12:12:35.794261+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005121018.parquet"
+    },
+    "fad3bb94-19f2-4b8b-9411-0b561ed6a8f6:7af4f318-a3d7-4eff-b02b-5e8bfd204683": {
+      "filename": "goteborg_skogen_261005122509",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005122509",
+      "processed_at": "2026-10-05T12:27:33.710120+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005122509.parquet"
+    },
+    "08fefa42-9ce3-462c-b39d-ee9f9e27aedb:9f85ee93-ecf7-4acc-bdd6-6bfe190e4398": {
+      "filename": "goteborg_skogen_261005124010",
+      "remote_path": "/Shared/GOTEBORG_SKOGEN/2026-10-05/goteborg_skogen_261005124010",
+      "processed_at": "2026-10-05T12:42:33.948237+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\goteborg_skogen\\2026-10-05\\goteborg_skogen_261005124010.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

@@ -1,0 +1,224 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/goteborg_skogen_261005082510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:28.145581+00:00",
+      "send_mode": "normal",
+      "records_read": 17767,
+      "messages_built": 10585,
+      "messages_published": 10585,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005084011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:14:23.312344+00:00",
+      "send_mode": "normal",
+      "records_read": 18033,
+      "messages_built": 10601,
+      "messages_published": 10601,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005085513.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:16:32.436477+00:00",
+      "send_mode": "normal",
+      "records_read": 18578,
+      "messages_built": 11098,
+      "messages_published": 11098,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005091020.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:18:49.148952+00:00",
+      "send_mode": "normal",
+      "records_read": 24862,
+      "messages_built": 12409,
+      "messages_published": 12409,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005092510.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:30:16.958847+00:00",
+      "send_mode": "normal",
+      "records_read": 18535,
+      "messages_built": 11005,
+      "messages_published": 11005,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005094011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:45:24.610400+00:00",
+      "send_mode": "normal",
+      "records_read": 17771,
+      "messages_built": 10583,
+      "messages_published": 10583,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005095512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:00:27.721215+00:00",
+      "send_mode": "normal",
+      "records_read": 17949,
+      "messages_built": 10688,
+      "messages_published": 10688,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005101014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:15:30.078376+00:00",
+      "send_mode": "normal",
+      "records_read": 23487,
+      "messages_built": 11870,
+      "messages_published": 11870,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005102509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:30:07.306227+00:00",
+      "send_mode": "normal",
+      "records_read": 17751,
+      "messages_built": 10964,
+      "messages_published": 10964,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005104011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:45:16.665198+00:00",
+      "send_mode": "normal",
+      "records_read": 17831,
+      "messages_built": 11192,
+      "messages_published": 11192,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005105512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:00:12.980596+00:00",
+      "send_mode": "normal",
+      "records_read": 17205,
+      "messages_built": 10730,
+      "messages_published": 10730,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005111023.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:15:30.079732+00:00",
+      "send_mode": "normal",
+      "records_read": 24431,
+      "messages_built": 12165,
+      "messages_published": 12165,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005112509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:30:24.987645+00:00",
+      "send_mode": "normal",
+      "records_read": 19506,
+      "messages_built": 11443,
+      "messages_published": 11443,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/1.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:39:50.078081+00:00",
+      "send_mode": "normal",
+      "records_read": 19506,
+      "messages_built": 11443,
+      "messages_published": 11443,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/0.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:44:19.554744+00:00",
+      "send_mode": "normal",
+      "records_read": 19506,
+      "messages_built": 11443,
+      "messages_published": 11443,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_2610050825100.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:46:15.633009+00:00",
+      "send_mode": "normal",
+      "records_read": 17767,
+      "messages_built": 10585,
+      "messages_published": 10585,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_2610050840110.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:48:18.823338+00:00",
+      "send_mode": "normal",
+      "records_read": 18033,
+      "messages_built": 10601,
+      "messages_published": 10601,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/4.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:52:08.457463+00:00",
+      "send_mode": "normal",
+      "records_read": 24431,
+      "messages_built": 12165,
+      "messages_published": 12165,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005115512.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:00:13.871404+00:00",
+      "send_mode": "normal",
+      "records_read": 18095,
+      "messages_built": 10689,
+      "messages_published": 10689,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005121018.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:15:24.880214+00:00",
+      "send_mode": "normal",
+      "records_read": 23389,
+      "messages_built": 11345,
+      "messages_published": 11345,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/goteborg_skogen_261005122509.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:30:07.316943+00:00",
+      "send_mode": "normal",
+      "records_read": 17800,
+      "messages_built": 10543,
+      "messages_published": 10543,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/5.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:34:07.182950+00:00",
+      "send_mode": "normal",
+      "records_read": 24862,
+      "messages_built": 12409,
+      "messages_published": 12409,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sites": [
+    {"name": "karlskrona", "egnyte_folder": "/Shared/KARLSKRONA", "output_station": "karlskrona", "watcher_config": "karlskrona_local.json", "enabled": true},
+    {"name": "falkoping", "egnyte_folder": "/Shared/FALKOPING", "output_station": "falkoping", "watcher_config": "falkoping_local.json", "enabled": true},
+    {"name": "sandviken", "egnyte_folder": "/Shared/SANDVIKEN", "output_station": "sandviken", "watcher_config": "sandviken_local.json", "enabled": true},
+    {"name": "vaggeryd", "egnyte_folder": "/Shared/VAGGERYD", "output_station": "vaggeryd", "watcher_config": "vaggeryd_local.json", "enabled": true},
+    {"name": "varnamo", "egnyte_folder": "/Shared/VARNAMO", "output_station": "varnamo", "watcher_config": "varnamo_local.json", "enabled": true},
+    {"name": "vasteras", "egnyte_folder": "/Shared/VASTERAS", "output_station": "vasteras", "watcher_config": "vasteras_local.json", "enabled": true},
+    {"name": "mjolby", "egnyte_folder": "/Shared/MJOLBY", "output_station": "mjolby", "watcher_config": "mjolby_local.json", "enabled": true},
+    {"name": "katrineholm", "egnyte_folder": "/Shared/KATRINEHOLM", "output_station": "katrineholm", "watcher_config": "katrineholm_local.json", "enabled": true},
+    {"name": "varberg", "egnyte_folder": "/Shared/VARBERG", "output_station": "varberg", "watcher_config": "varberg_local.json", "enabled": true},
+    {"name": "sala", "egnyte_folder": "/Shared/SALA", "output_station": "sala", "watcher_config": "sala_local.json", "enabled": true},
+    {"name": "eslov", "egnyte_folder": "/Shared/ESLOV", "output_station": "eslov", "watcher_config": "eslov_local.json", "enabled": true},
+    {"name": "gavle", "egnyte_folder": "/Shared/GAVLE", "output_station": "gavle", "watcher_config": "gavle_local.json", "enabled": true},
+    {"name": "goteborg_skogen", "egnyte_folder": "/Shared/GOTEBORG_SKOGEN", "output_station": "goteborg_skogen", "watcher_config": "goteborg_skogen_local.json", "enabled": true},
+    {"name": "kristinehamn", "egnyte_folder": "/Shared/KRISTINEHAMN", "output_station": "kristinehamn", "watcher_config": "kristinehamn_local.json", "enabled": true},
+    {"name": "lerum", "egnyte_folder": "/Shared/LERUM", "output_station": "lerum", "watcher_config": "lerum_local.json", "enabled": true},
+    {"name": "rattvik", "egnyte_folder": "/Shared/RATTVIK", "output_station": "rattvik", "watcher_config": "rattvik_local.json", "enabled": true},
+    {"name": "staffan", "egnyte_folder": "/Shared/STAFFANSTORP", "output_station": "staffan", "watcher_config": "staffan_local.json", "enabled": true}
+  ]
+}

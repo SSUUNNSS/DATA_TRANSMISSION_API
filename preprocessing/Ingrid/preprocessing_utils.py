@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 import csv
+import io
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Iterator
+from typing import Iterator, Iterable
 
 import pyarrow.parquet as pq
 
@@ -57,8 +58,12 @@ def iter_records(batch: Batch) -> Iterator[Record]:
 
 
 def iter_resampled(batch: Batch) -> Iterator[Record]:
+    yield from resample_records(iter_records(batch))
+
+
+def resample_records(records: Iterable[Record]) -> Iterator[Record]:
     earliest: dict[tuple[str, datetime], Record] = {}
-    for record in iter_records(batch):
+    for record in records:
         bucket = record.ts_utc.replace(
             minute=record.ts_utc.minute,
             second=0,
@@ -93,9 +98,20 @@ def _iter_parquet(file_path: Path) -> Iterator[Record]:
 
 
 def _iter_text(file_path: Path) -> Iterator[Record]:
-    encoding = _detect_encoding(file_path)
-    with file_path.open("r", encoding=encoding, newline="") as csv_file:
-        reader = csv.reader(csv_file, delimiter=";")
+    with file_path.open("rb") as stream:
+        yield from parse_csv_stream(stream, str(file_path))
+
+
+def parse_csv_stream(stream, source_name: str = "<stream>") -> Iterator[Record]:
+    """Parse a text or seekable binary stream without persisting raw data."""
+    prefix = stream.read(4)
+    stream.seek(0)
+    wrapper = None
+    if isinstance(prefix, bytes):
+        encoding = "utf-16" if prefix.startswith((b"\xff\xfe", b"\xfe\xff")) else "utf-8-sig"
+        wrapper = io.TextIOWrapper(stream, encoding=encoding, newline="")
+    try:
+        reader = csv.reader(wrapper or stream, delimiter=";", strict=True)
         for line_number, row in enumerate(reader, start=1):
             if not row or not any(field.strip() for field in row):
                 continue
@@ -106,8 +122,11 @@ def _iter_text(file_path: Path) -> Iterator[Record]:
             elif len(row) >= 3:
                 timestamp, metric, value = (field.strip() for field in row[:3])
             else:
-                raise ValueError(f"Invalid data row in {file_path} at line {line_number}")
-            yield _make_record(timestamp, metric, value, file_path)
+                raise ValueError(f"Invalid data row in {source_name} at line {line_number}")
+            yield _make_record(timestamp, metric, value, source_name)
+    finally:
+        if wrapper is not None:
+            wrapper.detach()
 
 
 def _detect_encoding(file_path: Path) -> str:

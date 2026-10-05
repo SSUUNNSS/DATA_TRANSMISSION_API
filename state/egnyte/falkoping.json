@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "0eedd015-8435-4def-a998-7c497a5072cb:367726b8-ee8d-415e-a13c-fdbd47d84385": {
+      "filename": "falkoping_261005082500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005082500",
+      "processed_at": "2026-10-05T09:07:33.638593+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005082500.parquet"
+    },
+    "592bd734-d2d1-4d29-8bc5-a173a57a8d0e:2f47ab3d-2813-4737-9f29-a14997388917": {
+      "filename": "falkoping_261005084001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005084001",
+      "processed_at": "2026-10-05T09:07:34.585096+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005084001.parquet"
+    },
+    "1ceec7dd-adcc-4266-819b-76ada207b6db:c26c48e1-133d-484c-91d8-d12d36046aab": {
+      "filename": "falkoping_261005085500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005085500",
+      "processed_at": "2026-10-05T09:07:35.413246+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005085500.parquet"
+    },
+    "af102f81-b451-4e43-91f5-a5e1acddc9ba:57366803-4847-4586-97e9-a32e39eb7c8e": {
+      "filename": "falkoping_261005091001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005091001",
+      "processed_at": "2026-10-05T09:12:05.116344+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005091001.parquet"
+    },
+    "49c7e4fa-6c17-4f3a-8cbd-69a027a00e96:2d4f7295-cb7f-4a7b-88ca-5f6e83241c06": {
+      "filename": "falkoping_261005092500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005092500",
+      "processed_at": "2026-10-05T09:27:05.055682+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005092500.parquet"
+    },
+    "13629b25-f70b-421c-86de-80fb84e25a3c:e4380dc7-49e3-4788-be23-877cbb31d7a5": {
+      "filename": "falkoping_261005094001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005094001",
+      "processed_at": "2026-10-05T09:42:04.671425+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005094001.parquet"
+    },
+    "82f7e5fb-0329-43be-8f8a-95320b234ae0:09889b42-ff2e-4271-bbfd-717a5f1e4b40": {
+      "filename": "falkoping_261005095501",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005095501",
+      "processed_at": "2026-10-05T09:57:04.469039+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005095501.parquet"
+    },
+    "824f1fa2-60a7-412d-ac1f-f23fd1d0a64c:eb2c2265-2d69-4a65-9221-25338b79bed6": {
+      "filename": "falkoping_261005101007",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005101007",
+      "processed_at": "2026-10-05T10:12:04.833541+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005101007.parquet"
+    },
+    "aa18f900-760c-4499-a329-80335295a1cc:a789adab-2973-4886-bdb1-14399a16f6c7": {
+      "filename": "falkoping_261005102500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005102500",
+      "processed_at": "2026-10-05T10:27:04.477736+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005102500.parquet"
+    },
+    "45743672-e31b-478f-a85a-4e392a22ef15:c9d00021-62d6-439d-9146-44bb3affc933": {
+      "filename": "falkoping_261005104001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005104001",
+      "processed_at": "2026-10-05T10:42:04.272981+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005104001.parquet"
+    },
+    "67567ed9-7f48-4f0e-8880-136897bbb229:bed380c3-59c9-4734-bdd7-1b80e519e408": {
+      "filename": "falkoping_261005105500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005105500",
+      "processed_at": "2026-10-05T10:57:04.634938+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005105500.parquet"
+    },
+    "8fe71730-022e-4650-8814-5321968bfd9f:747bea94-5307-4983-9b28-4f92c6dd2dde": {
+      "filename": "falkoping_261005111001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005111001",
+      "processed_at": "2026-10-05T11:12:05.374259+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005111001.parquet"
+    },
+    "e083a595-4bd2-41b6-b106-6be5398414bf:112ccaf5-34e7-4b4a-b2de-7b9a994cf5fb": {
+      "filename": "falkoping_261005112500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005112500",
+      "processed_at": "2026-10-05T11:27:09.488232+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005112500.parquet"
+    },
+    "c9d1b623-9237-4369-8b27-9d3763e3cd42:28c7a3cf-75bc-4614-91ef-a3ebb69b4bad": {
+      "filename": "falkoping_261005114000",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005114000",
+      "processed_at": "2026-10-05T11:42:04.790057+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005114000.parquet"
+    },
+    "274b2fa7-09fa-482e-a043-d6ecd8bcaf88:f49c7e2b-3132-4863-ba20-55bfee0f6ab2": {
+      "filename": "falkoping_261005115500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005115500",
+      "processed_at": "2026-10-05T11:57:04.428909+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005115500.parquet"
+    },
+    "3f36fcab-4a05-4591-b6a5-29ae74ffb215:27a2248d-2ce8-4d7e-a60f-49ac45629cd5": {
+      "filename": "falkoping_261005121001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005121001",
+      "processed_at": "2026-10-05T12:12:05.080374+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005121001.parquet"
+    },
+    "b9350c79-68b2-459c-9e0a-3ed48142725e:0eb45efb-0692-4af1-98dc-d5ed5a3238fb": {
+      "filename": "falkoping_261005122500",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005122500",
+      "processed_at": "2026-10-05T12:27:04.720578+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005122500.parquet"
+    },
+    "4959703b-ff8a-4ddd-9c86-295a705b2119:b26bcbc6-d08e-4454-a0f6-bb0bc09cfdf1": {
+      "filename": "falkoping_261005124001",
+      "remote_path": "/Shared/FALKOPING/2026-10-05/falkoping_261005124001",
+      "processed_at": "2026-10-05T12:42:05.222117+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\falkoping\\2026-10-05\\falkoping_261005124001.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

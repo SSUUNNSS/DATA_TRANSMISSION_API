@@ -1,0 +1,591 @@
+{
+  "baseline_before": "2026-10-05T10:25:00+02:00",
+  "processed_files": {
+    "52acaaea-1871-4e2b-9d2e-55b83a2b2558:de384400-a0d8-4dd9-ab94-dc6d6a3d9b6e": {
+      "filename": "sala_261002102506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002102506",
+      "initialized_at": "2026-10-02T10:55:15.162085+00:00"
+    },
+    "32851a79-bbe5-431c-b44d-a8972eb59c6e:95dd2b61-7689-4954-839b-296f20331140": {
+      "filename": "sala_261002101013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002101013",
+      "initialized_at": "2026-10-02T10:55:15.162579+00:00"
+    },
+    "66212045-e583-4c54-9e5a-fbfdfc9e9f5d:692e7b64-ba99-46b9-bd43-645f32ef2f0f": {
+      "filename": "sala_261002095508",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002095508",
+      "initialized_at": "2026-10-02T10:55:15.163037+00:00"
+    },
+    "2a8f5776-978a-4cf0-aad2-2b2c519d82b5:6ad799c2-5959-41e9-8525-5b2714c5faa8": {
+      "filename": "sala_261002094007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002094007",
+      "initialized_at": "2026-10-02T10:55:15.163385+00:00"
+    },
+    "434cc048-4818-4668-824c-534a4268d61b:cf3b59c9-a154-45ad-836a-ac28b3c54fbd": {
+      "filename": "sala_261002092506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002092506",
+      "initialized_at": "2026-10-02T10:55:15.163757+00:00"
+    },
+    "3615216f-b9cc-4792-85ef-2f6373beed55:c115fe5a-afb7-491c-923f-d111819bf3a0": {
+      "filename": "sala_261002091009",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002091009",
+      "initialized_at": "2026-10-02T10:55:15.164284+00:00"
+    },
+    "1c4ce230-2023-485a-a206-15438ec46e7a:a34eb668-220b-4597-bab3-627453d4717d": {
+      "filename": "sala_261002085507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002085507",
+      "initialized_at": "2026-10-02T10:55:15.164826+00:00"
+    },
+    "3398a7ff-20ae-4a5d-b562-380bae196043:b0bb9c76-dc6e-4317-ab39-417afbadf52d": {
+      "filename": "sala_261002084007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002084007",
+      "initialized_at": "2026-10-02T10:55:15.165231+00:00"
+    },
+    "672dca63-2d99-4553-ba57-485d90916fd9:ecf7cb37-9e3e-4b0c-845c-153c7df6e06c": {
+      "filename": "sala_261002082506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002082506",
+      "initialized_at": "2026-10-02T10:55:15.165673+00:00"
+    },
+    "be06b519-b998-49a0-bb53-dc518824ca5d:44634a65-5b94-4582-82b2-e74f0fb16d7e": {
+      "filename": "sala_261002081013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002081013",
+      "initialized_at": "2026-10-02T10:55:15.166075+00:00"
+    },
+    "e871b6f1-47c0-4935-86bb-6e604f2f23a1:9b5f3ed3-cd95-49f2-a6cb-8d25ef7656fc": {
+      "filename": "sala_261002075507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002075507",
+      "initialized_at": "2026-10-02T10:55:15.166456+00:00"
+    },
+    "f855d1a7-7058-4d8e-bf69-759bb34e8051:86e1a9c6-081f-41cf-aa58-0aab494e9545": {
+      "filename": "sala_261002074007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002074007",
+      "initialized_at": "2026-10-02T10:55:15.167080+00:00"
+    },
+    "62ca5e49-423d-47f5-9997-d210c95dcc00:98924820-2eb6-4117-9358-5408207d1865": {
+      "filename": "sala_261002072506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002072506",
+      "initialized_at": "2026-10-02T10:55:15.167738+00:00"
+    },
+    "71958b2d-18ca-44f9-aa52-3ef7b643de05:481c7f9f-97c7-46f7-bdb0-a74e4366b078": {
+      "filename": "sala_261002071013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002071013",
+      "initialized_at": "2026-10-02T10:55:15.168319+00:00"
+    },
+    "465aa4f2-475e-4104-95f7-ef3dfe32ab13:a4f5f7d1-567c-4a3b-a383-10343bb77bd2": {
+      "filename": "sala_261002065507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002065507",
+      "initialized_at": "2026-10-02T10:55:15.169070+00:00"
+    },
+    "77104019-7034-4d09-a005-f579ce950b04:d3ff2d79-2a73-4380-9a4b-097e3b991d54": {
+      "filename": "sala_261002064006",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002064006",
+      "initialized_at": "2026-10-02T10:55:15.169616+00:00"
+    },
+    "dde94c42-dcb4-4ac3-9a00-8f7abacd2523:a5636e9b-6edd-451b-826e-bc6105614179": {
+      "filename": "sala_261002062506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002062506",
+      "initialized_at": "2026-10-02T10:55:15.170035+00:00"
+    },
+    "bc0e9431-eb7a-4552-9323-0774c2c56324:8412c424-1063-4811-bc67-e2e60aa7cd1f": {
+      "filename": "sala_261002061009",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002061009",
+      "initialized_at": "2026-10-02T10:55:15.170550+00:00"
+    },
+    "401c3025-f433-4c93-aa45-d12663fc3285:c3fc1dc5-83aa-414c-92a9-be99127f7419": {
+      "filename": "sala_261002055506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002055506",
+      "initialized_at": "2026-10-02T10:55:15.171154+00:00"
+    },
+    "a880289e-3a30-4747-beca-e0643c1d2ce7:718fcf12-0f67-43d8-bdeb-e9b958729c6d": {
+      "filename": "sala_261002054006",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002054006",
+      "initialized_at": "2026-10-02T10:55:15.171773+00:00"
+    },
+    "28a32e71-d1a3-44e1-b876-3e52ccb0c9b6:709537f2-6893-41fe-848d-5c2c851b22b8": {
+      "filename": "sala_261002052505",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002052505",
+      "initialized_at": "2026-10-02T10:55:15.172444+00:00"
+    },
+    "5a2d7b39-0e24-4bff-a72c-baa522211ce0:469e82e8-db87-4029-aeb4-bba5d6efe39d": {
+      "filename": "sala_261002051009",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002051009",
+      "initialized_at": "2026-10-02T10:55:15.173095+00:00"
+    },
+    "18edb860-65b7-4284-9cee-712b85046010:2a43bced-63de-4486-a610-c6661b3c79f2": {
+      "filename": "sala_261002045507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002045507",
+      "initialized_at": "2026-10-02T10:55:15.200360+00:00"
+    },
+    "72634577-aa12-4cac-84f2-7d481dcb9dfc:fe9f7933-49b2-4592-87eb-b226a9b6242b": {
+      "filename": "sala_261002044007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002044007",
+      "initialized_at": "2026-10-02T10:55:15.201637+00:00"
+    },
+    "38b78054-0358-4503-be8a-28349d15bba1:10896a58-5f87-4ffe-8256-ac1f090088e8": {
+      "filename": "sala_261002042505",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002042505",
+      "initialized_at": "2026-10-02T10:55:15.213570+00:00"
+    },
+    "5adf2a92-5ef4-4594-bdd6-07e5623d1fe5:975ffff3-d26e-4d39-9a49-bd254e91399a": {
+      "filename": "sala_261002041013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002041013",
+      "initialized_at": "2026-10-02T10:55:15.259086+00:00"
+    },
+    "11236ac1-581d-40aa-bc13-8ea76bfba2af:4bb958cb-373d-4aa8-b7bd-fd8582a79455": {
+      "filename": "sala_261002035507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002035507",
+      "initialized_at": "2026-10-02T10:55:15.317623+00:00"
+    },
+    "b51ef03e-1d84-4ec8-9bec-4f8ff6d7f986:9f56df74-7c10-4495-b463-4a6db401341a": {
+      "filename": "sala_261002034007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002034007",
+      "initialized_at": "2026-10-02T10:55:15.333963+00:00"
+    },
+    "a7aa753b-112e-45ae-90c9-81434a1983c0:d0de0a4a-4b62-4a98-93db-4bfd00308e47": {
+      "filename": "sala_261002032505",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002032505",
+      "initialized_at": "2026-10-02T10:55:15.335214+00:00"
+    },
+    "da8907c7-890b-4b51-85a2-b6417cd95b2e:67f916cf-2f4a-43f0-af92-812a011abb8e": {
+      "filename": "sala_261002031016",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002031016",
+      "initialized_at": "2026-10-02T10:55:15.339948+00:00"
+    },
+    "f9e2acfc-f87c-4244-967e-4c48318f24f6:cd91b35a-2b1f-45e0-9ece-ffa5ec7378e2": {
+      "filename": "sala_261002025506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002025506",
+      "initialized_at": "2026-10-02T10:55:15.341241+00:00"
+    },
+    "5551abfa-a7d2-41f2-8ea2-fec3cc472c9e:b58d182b-b15f-47a2-b177-f3f7c2fbc6d2": {
+      "filename": "sala_261002024006",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002024006",
+      "initialized_at": "2026-10-02T10:55:15.342148+00:00"
+    },
+    "d27872c6-0bb1-4b75-96e0-4fcce92fba3f:c00a360e-a6e7-4c6c-b960-a23e2e2f83b9": {
+      "filename": "sala_261002022505",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002022505",
+      "initialized_at": "2026-10-02T10:55:15.342928+00:00"
+    },
+    "01de7917-9af8-4300-8b6d-4ee5425024b5:3d29a1ee-9134-466d-be1e-fbf71d32177f": {
+      "filename": "sala_261002021008",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002021008",
+      "initialized_at": "2026-10-02T10:55:15.343409+00:00"
+    },
+    "1920df94-ea20-4555-9f53-b0de61e775f7:9b91e324-b797-447a-b3fa-1bf91142e49c": {
+      "filename": "sala_261002015507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002015507",
+      "initialized_at": "2026-10-02T10:55:15.343787+00:00"
+    },
+    "3f7bb153-f113-4929-84ae-f018dd396e64:cd9b4614-af07-47de-b7d0-7f986f5a65a4": {
+      "filename": "sala_261002014007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002014007",
+      "initialized_at": "2026-10-02T10:55:15.344084+00:00"
+    },
+    "1731f5bb-1e89-4d83-b5d9-bcb800b48529:e23b298f-f0bf-4879-a5be-e7749c8c72a8": {
+      "filename": "sala_261002012506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002012506",
+      "initialized_at": "2026-10-02T10:55:15.344347+00:00"
+    },
+    "6c722d0e-6774-4821-9469-fadf1085e8a4:124187e2-6f5b-4267-8353-e3fe5f6d7a8b": {
+      "filename": "sala_261002011008",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002011008",
+      "initialized_at": "2026-10-02T10:55:15.344653+00:00"
+    },
+    "69ed02f0-b8e5-4ec3-bfee-40857cc7fab9:177d06f3-980d-4e0d-a925-03cd11b1e57c": {
+      "filename": "sala_261002005507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002005507",
+      "initialized_at": "2026-10-02T10:55:15.345054+00:00"
+    },
+    "54fb2933-fea1-4137-941e-ef675645c30a:7ddad7a9-2365-4565-8e92-bb8187118366": {
+      "filename": "sala_261002004007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002004007",
+      "initialized_at": "2026-10-02T10:55:15.345380+00:00"
+    },
+    "b3bc5cb8-8288-4c47-8c27-f2328f7a62e7:581be0ac-85dd-420e-8e5e-07e1d611ee51": {
+      "filename": "sala_261002002506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002002506",
+      "initialized_at": "2026-10-02T10:55:15.345530+00:00"
+    },
+    "256faa76-a24d-4842-b78e-68a4e89ceadd:6aa14178-e8c1-4c5a-9f14-0e6e5da44775": {
+      "filename": "sala_261002001016",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002001016",
+      "initialized_at": "2026-10-02T10:55:15.346218+00:00"
+    },
+    "23f12427-2632-460a-b024-36193a0b2654:18f6aa89-71c0-46d9-8dc2-5ac22dbc633b": {
+      "filename": "sala_261001235507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001235507",
+      "initialized_at": "2026-10-02T10:55:15.359881+00:00"
+    },
+    "dddeaa3d-0e3f-4acf-b1d7-123bf18858c6:77e856a0-23e6-4cb3-a443-9bbb2fc7a7f2": {
+      "filename": "sala_261001234007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001234007",
+      "initialized_at": "2026-10-02T10:55:15.360173+00:00"
+    },
+    "0d14f86e-b4df-4bb9-baf7-ac01adcc10bf:eda8c64e-f535-49dd-8e62-76220004c893": {
+      "filename": "sala_261001232506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001232506",
+      "initialized_at": "2026-10-02T10:55:15.361440+00:00"
+    },
+    "e3cfac5d-d173-41cf-8b4b-12702ff3b8bc:8de62c92-3ae2-4aa6-8c19-0a30c9c31078": {
+      "filename": "sala_261001231009",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001231009",
+      "initialized_at": "2026-10-02T10:55:15.361731+00:00"
+    },
+    "75f8b323-1bbc-465b-a775-bed8d38bb939:aee28bc1-3e2b-4b1f-976c-fc0cd29f9235": {
+      "filename": "sala_261001225508",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001225508",
+      "initialized_at": "2026-10-02T10:55:15.361890+00:00"
+    },
+    "36fa3dbe-04a8-4676-b4b8-341895ad8153:bcce3c82-12a7-4a23-9dd3-846c7c0556fb": {
+      "filename": "sala_261001224007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001224007",
+      "initialized_at": "2026-10-02T10:55:15.362035+00:00"
+    },
+    "30e1547f-9feb-4c14-a237-31a799957421:37a5da9a-40a1-450b-aa8f-d90aa528d94d": {
+      "filename": "sala_261001222506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001222506",
+      "initialized_at": "2026-10-02T10:55:15.362177+00:00"
+    },
+    "ba3e0f6c-615d-4afe-9698-6dcb993d06a9:2a83a204-e2ae-4f02-a10e-d5d0da333bec": {
+      "filename": "sala_261001221013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261001221013",
+      "initialized_at": "2026-10-02T10:55:15.362328+00:00"
+    },
+    "4e819536-f332-41dd-b23b-8a9aa1b8a95c:db885380-981a-4359-b42f-c05427839beb": {
+      "filename": "sala_261002104007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002104007",
+      "processed_at": "2026-10-02T12:06:10.031179+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002104007.parquet"
+    },
+    "0c838e3d-24dd-451f-854c-577f8cc4e3f2:f2239d44-2702-4c6e-b63a-3ebd84fc8944": {
+      "filename": "sala_261002105507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002105507",
+      "processed_at": "2026-10-02T12:06:10.988960+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002105507.parquet"
+    },
+    "6770b0fb-ed10-442e-a897-b10c7a7aee67:43198a5d-c855-4ee7-9455-88fa4ad2e79d": {
+      "filename": "sala_261002111013",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002111013",
+      "processed_at": "2026-10-02T12:06:11.675895+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002111013.parquet"
+    },
+    "2fb72242-278b-4e11-9fbd-1c5b71f99559:93fa321c-8df9-485d-88a6-f5851804f7b9": {
+      "filename": "sala_261002112506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002112506",
+      "processed_at": "2026-10-02T12:06:12.393471+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002112506.parquet"
+    },
+    "a5f9d69d-fe01-4ba8-a2fc-6b938b41e98a:8f3f273e-f392-442d-be34-11d7d3e8efb0": {
+      "filename": "sala_261002114007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002114007",
+      "processed_at": "2026-10-02T12:06:13.138981+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002114007.parquet"
+    },
+    "bff95914-1da7-4d7d-9362-7848bea1fb89:f9152e6f-5dfb-4f18-bd69-232c288ca47b": {
+      "filename": "sala_261002115507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002115507",
+      "processed_at": "2026-10-02T12:06:13.943932+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002115507.parquet"
+    },
+    "c0f0e089-6f22-4fe0-937d-cd392930deda:1e17ca51-5c4e-4fe8-9009-ca2131b28cac": {
+      "filename": "sala_261002121011",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002121011",
+      "processed_at": "2026-10-02T12:24:46.696317+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002121011.parquet"
+    },
+    "32d589ba-6e8c-4f5c-b825-2a2b24b02b55:89143bb2-adb6-45e9-976a-c24ccbcf9898": {
+      "filename": "sala_261002122506",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002122506",
+      "processed_at": "2026-10-02T12:47:58.263449+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002122506.parquet"
+    },
+    "3e5b10a8-ad9d-40c1-ab45-370adc582968:2e82abf9-39f4-449e-8549-a1b143b2a8b9": {
+      "filename": "sala_261002124007",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002124007",
+      "processed_at": "2026-10-02T12:48:00.593065+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002124007.parquet"
+    },
+    "95458c1f-9ec3-4ebc-8b74-3ee7218395a9:e478b751-14cd-423b-a11a-8ee027d03883": {
+      "filename": "sala_260930221007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930221007",
+      "processed_at": "2026-10-02T12:48:02.767197+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930221007.parquet"
+    },
+    "197b164e-a3d1-4ecf-81d6-7f9b94a8a544:5847ef16-3ecc-4aca-bff6-6da79ee44390": {
+      "filename": "sala_260930222505",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930222505",
+      "processed_at": "2026-10-02T12:48:04.836702+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930222505.parquet"
+    },
+    "94094f79-8cc3-49e2-ba77-fddf3fc60cef:7ce85248-21f4-4cd5-b072-e5ba318d229d": {
+      "filename": "sala_260930224007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930224007",
+      "processed_at": "2026-10-02T12:48:06.843291+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930224007.parquet"
+    },
+    "12660992-83a2-455a-b92f-eda208c26dcd:53d02560-9cd2-49de-9614-27a860d72877": {
+      "filename": "sala_260930225507",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930225507",
+      "processed_at": "2026-10-02T12:48:08.931208+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930225507.parquet"
+    },
+    "361ed244-0816-4e4a-b722-0075fbc1b624:aa6c257c-f66c-4734-9298-eb82df5d84fb": {
+      "filename": "sala_260930231008",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930231008",
+      "processed_at": "2026-10-02T12:48:10.648559+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930231008.parquet"
+    },
+    "91b24e60-d61d-42ad-94cb-12967198657d:f4d07e98-b525-41eb-897a-8082ec89c450": {
+      "filename": "sala_260930232506",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930232506",
+      "processed_at": "2026-10-02T12:48:12.480347+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930232506.parquet"
+    },
+    "86df5c7f-cec6-4054-a231-87c2e65da7af:8965a661-1939-4c8a-a576-4c1530dfed25": {
+      "filename": "sala_260930234007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930234007",
+      "processed_at": "2026-10-02T12:48:14.354663+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930234007.parquet"
+    },
+    "291e01a2-a7eb-4bbf-ba6b-d6abb8af2534:5d18859d-9e62-4df2-bd21-97be82f033ec": {
+      "filename": "sala_260930235508",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_260930235508",
+      "processed_at": "2026-10-02T12:48:16.222996+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_260930235508.parquet"
+    },
+    "e7971aa6-5862-4d01-8c17-72e540e3a7ca:74e52515-c86e-477e-a773-4643b9f52f15": {
+      "filename": "sala_261001001011",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001001011",
+      "processed_at": "2026-10-02T12:48:18.209352+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001001011.parquet"
+    },
+    "13ce0fd3-3757-4170-a94e-87598c3d6ed0:eb2091f9-0da2-43c5-b6d7-001217fd39f1": {
+      "filename": "sala_261001002506",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001002506",
+      "processed_at": "2026-10-02T12:48:20.353854+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001002506.parquet"
+    },
+    "27d5724b-c78b-4be6-a152-e9786d1a9398:8611ee6b-84f3-4560-8dd3-27edf87cf84a": {
+      "filename": "sala_261002125507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002125507",
+      "processed_at": "2026-10-02T12:57:11.828567+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002125507.parquet"
+    },
+    "7218adad-3a1f-4be4-86f8-17bec801d2ca:b1619c42-efb5-4b47-9690-bb14c7108434": {
+      "filename": "sala_261001004007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001004007",
+      "processed_at": "2026-10-02T12:57:14.042825+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001004007.parquet"
+    },
+    "05720707-50ed-45c8-bb64-5371005e6fcf:5760c6bd-c9dd-4c5e-8b4c-2194e8c1300f": {
+      "filename": "sala_261001005507",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001005507",
+      "processed_at": "2026-10-02T12:57:15.859597+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001005507.parquet"
+    },
+    "643f5469-ec3d-486f-9ed7-808b8280230c:6aa25922-75d8-4d94-9e83-fb86e30323b8": {
+      "filename": "sala_261001011008",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001011008",
+      "processed_at": "2026-10-02T12:57:17.685892+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001011008.parquet"
+    },
+    "62ed5789-4788-4585-a011-19186a937b76:5562125a-7c39-439a-b495-f2ab0b30c5e7": {
+      "filename": "sala_261001012506",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001012506",
+      "processed_at": "2026-10-02T12:57:19.637913+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001012506.parquet"
+    },
+    "cfece776-c68a-453d-a916-bc81c793325a:3a4667bb-1407-4d50-b6ed-00777df6f433": {
+      "filename": "sala_261001014007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001014007",
+      "processed_at": "2026-10-02T12:58:49.664267+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001014007.parquet"
+    },
+    "d0fb5b30-e21e-4531-9eb4-cffbaf46cc53:4cc777b9-4c01-460a-a797-c1cf83478c46": {
+      "filename": "sala_261001015507",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001015507",
+      "processed_at": "2026-10-02T12:58:50.429501+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001015507.parquet"
+    },
+    "2f3c333c-208b-410b-8da6-36a7cd2b977a:a0434c88-38f8-4db8-9cd2-f358f50aab25": {
+      "filename": "sala_261001021013",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001021013",
+      "processed_at": "2026-10-02T12:58:52.175784+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001021013.parquet"
+    },
+    "68a93c0b-095e-46a2-8c51-d4a3b0ab4ffd:cafd69ff-3ad1-43c4-ad24-e452b2dd8a7a": {
+      "filename": "sala_261001022505",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001022505",
+      "processed_at": "2026-10-02T12:58:54.011736+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001022505.parquet"
+    },
+    "adb2df77-92ae-4d8b-8982-8be394354f17:9e977de1-c0e2-43a3-84ec-53d14502128f": {
+      "filename": "sala_261001024007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001024007",
+      "processed_at": "2026-10-02T12:58:55.891756+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001024007.parquet"
+    },
+    "3895c472-6177-41a8-a71f-4094a8365bf7:3b8b76ee-dc28-4df6-b596-9a92b1e6f143": {
+      "filename": "sala_261001025506",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001025506",
+      "processed_at": "2026-10-02T12:58:57.741263+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001025506.parquet"
+    },
+    "86622b27-8c68-46ef-8186-656163f55a79:3a0161a2-b944-44a5-b010-0892dc6b67b0": {
+      "filename": "sala_261001031018",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001031018",
+      "processed_at": "2026-10-02T12:58:59.675321+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001031018.parquet"
+    },
+    "f49c2f89-3e7e-4f2f-958c-b41d7cf3a31f:092a76a4-bc87-4940-b2e5-92ae46b65c7f": {
+      "filename": "sala_261001032505",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001032505",
+      "processed_at": "2026-10-02T12:59:01.575194+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001032505.parquet"
+    },
+    "0823f5fa-5adf-44ca-9299-07235fc13d2c:5a3ac2ba-cb79-420d-b887-91ab646c0439": {
+      "filename": "sala_261001034007",
+      "remote_path": "/Shared/SALA/2026-10-01/sala_261001034007",
+      "processed_at": "2026-10-02T12:59:03.614079+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-01\\sala_261001034007.parquet"
+    },
+    "d03684ac-b087-41bb-ad6d-587cd7892563:c38b58aa-a893-4cac-85af-43daa0be59d7": {
+      "filename": "sala_261002131009",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002131009",
+      "processed_at": "2026-10-02T13:18:44.546296+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002131009.parquet"
+    },
+    "32f34731-34fa-433b-9758-6a6823e60edb:898716f7-8bb4-4e7b-9749-c75617079577": {
+      "filename": "sala_261002132505",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002132505",
+      "processed_at": "2026-10-02T13:27:03.086652+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002132505.parquet"
+    },
+    "df6befbe-7233-4bea-9a9e-dc06887998c6:d63df6f8-12da-4273-a762-daf6fa26cff1": {
+      "filename": "sala_261002134006",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002134006",
+      "processed_at": "2026-10-02T13:42:03.682985+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002134006.parquet"
+    },
+    "a0944f38-2485-4ca4-bb2d-e88ca8ea3e9a:b00f017d-434c-4eaa-a750-91a1a43c18e1": {
+      "filename": "sala_261002135507",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002135507",
+      "processed_at": "2026-10-02T13:57:14.546627+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002135507.parquet"
+    },
+    "599bb44f-66a8-4130-ab6b-acd758c8bb0c:71c9d835-a6c4-4c76-9c77-c3c2375c4416": {
+      "filename": "sala_261002141011",
+      "remote_path": "/Shared/SALA/2026-10-02/sala_261002141011",
+      "processed_at": "2026-10-02T14:12:20.468306+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-02\\sala_261002141011.parquet"
+    },
+    "c4b006c8-433c-4d91-8cd9-e816b8309d11:dfe2588b-cbb1-498a-a583-63b0d0e48772": {
+      "filename": "sala_261005082506",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005082506",
+      "processed_at": "2026-10-05T09:08:23.556408+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005082506.parquet"
+    },
+    "097de826-5f04-41d4-8e63-70aae7217ce5:8319ef5e-a978-4b99-a6cd-c61e3d5ebaf1": {
+      "filename": "sala_261005084007",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005084007",
+      "processed_at": "2026-10-05T09:08:25.035913+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005084007.parquet"
+    },
+    "1cee42ad-9580-49b5-acb7-7dcc3e3d1136:ab59e109-f5c8-4e42-9bb9-3732567a2b7f": {
+      "filename": "sala_261005085507",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005085507",
+      "processed_at": "2026-10-05T09:08:26.345582+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005085507.parquet"
+    },
+    "6d74c7ec-514b-4d7a-b4b2-d9e4c25fa36d:bc74097e-4cea-4656-a172-efddb3d63a06": {
+      "filename": "sala_261005091013",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005091013",
+      "processed_at": "2026-10-05T09:12:27.042569+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005091013.parquet"
+    },
+    "9705d528-a741-4e9f-99a9-3684608d71ec:1ff72cbf-afbe-4637-a07a-0d5cda24d5d2": {
+      "filename": "sala_261005092506",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005092506",
+      "processed_at": "2026-10-05T09:27:25.285574+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005092506.parquet"
+    },
+    "812a9193-6930-4555-b8a8-9b1b605e52e1:9b081129-b2e8-48aa-a021-75bdfe2406fe": {
+      "filename": "sala_261005094007",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005094007",
+      "processed_at": "2026-10-05T09:42:25.708070+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005094007.parquet"
+    },
+    "2069f48b-f55f-4e69-9e98-e2042d0ddb6c:5633e003-a8c1-49bb-aefc-1f34dd2e02f2": {
+      "filename": "sala_261005095508",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005095508",
+      "processed_at": "2026-10-05T09:57:27.473946+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005095508.parquet"
+    },
+    "712af6ff-2381-4582-9314-eb91b496556e:730f5b45-ab24-47bf-8661-ead18b7c35b3": {
+      "filename": "sala_261005101015",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005101015",
+      "processed_at": "2026-10-05T10:12:25.089408+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005101015.parquet"
+    },
+    "19c68ce6-e398-42a5-85d9-b0a24e13fb0a:3a3be330-bf19-44d6-8cf5-f4fe2beb3a86": {
+      "filename": "sala_261005102506",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005102506",
+      "processed_at": "2026-10-05T10:27:24.845289+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005102506.parquet"
+    },
+    "de42a186-2a07-4ea1-a244-e0a040f0628b:42efe2b7-794e-4136-b705-da99c238aaa2": {
+      "filename": "sala_261005104007",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005104007",
+      "processed_at": "2026-10-05T10:42:22.972328+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005104007.parquet"
+    },
+    "de8b901e-cb91-4cae-a32b-ebe482dfc89c:695ba9d6-8f36-4495-8853-1a90554ee54c": {
+      "filename": "sala_261005105507",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005105507",
+      "processed_at": "2026-10-05T10:57:24.531085+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005105507.parquet"
+    },
+    "b86220be-2faa-4e23-8991-7d6ae769b1a6:b92dac1f-0615-48f7-ab53-10565c7a82ba": {
+      "filename": "sala_261005111009",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005111009",
+      "processed_at": "2026-10-05T11:12:25.648085+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005111009.parquet"
+    },
+    "531f2ff5-ea2f-4e74-a358-2266eb53419d:0e04ad0a-11b9-4bf5-844e-bcfa1ab617bd": {
+      "filename": "sala_261005112506",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005112506",
+      "processed_at": "2026-10-05T11:27:30.880215+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005112506.parquet"
+    },
+    "22cfdcd1-b0a1-43d7-852a-8d699aee2537:72ca0731-9f06-40c8-9d60-f764f85f70d3": {
+      "filename": "sala_261005114007",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005114007",
+      "processed_at": "2026-10-05T11:42:23.992845+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005114007.parquet"
+    },
+    "e04e2e56-2d1a-4c85-8b51-6067d178e7a0:bc429f52-1015-42af-a684-baed121a213f": {
+      "filename": "sala_261005115507",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005115507",
+      "processed_at": "2026-10-05T11:57:24.174945+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005115507.parquet"
+    },
+    "8418994e-5ee2-42d7-8dfa-853fb6586b95:dd017614-836e-454f-a1cb-c40a747746e9": {
+      "filename": "sala_261005121008",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005121008",
+      "processed_at": "2026-10-05T12:12:25.644033+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005121008.parquet"
+    },
+    "467d0ff5-e66b-4613-a04e-2b0d79c35615:9347b7e0-bf7c-4669-8d52-5886b4feede2": {
+      "filename": "sala_261005122506",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005122506",
+      "processed_at": "2026-10-05T12:27:24.263903+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005122506.parquet"
+    },
+    "30cdea83-1d67-4414-b628-5ee88c060302:2b4e4acb-a1d0-43ad-92ed-f8cbcb837cbe": {
+      "filename": "sala_261005124007",
+      "remote_path": "/Shared/SALA/2026-10-05/sala_261005124007",
+      "processed_at": "2026-10-05T12:42:24.713372+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\sala\\2026-10-05\\sala_261005124007.parquet"
+    }
+  }
+}

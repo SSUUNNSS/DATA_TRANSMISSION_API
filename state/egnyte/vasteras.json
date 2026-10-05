@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "aaf7dda1-4d16-41eb-8972-d55401757891:f2e97e13-e3d3-48f2-887f-8e1747c99d5a": {
+      "filename": "vasteras_261005082508",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005082508",
+      "processed_at": "2026-10-05T09:07:57.249292+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005082508.parquet"
+    },
+    "d9cef575-65b2-4257-a397-6535c5cb5853:eb28553e-2851-44ec-8698-d36664b9a514": {
+      "filename": "vasteras_261005084010",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005084010",
+      "processed_at": "2026-10-05T09:07:58.306447+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005084010.parquet"
+    },
+    "18b8dd43-0958-4659-8670-6368b4c829db:008f7ad6-eed9-48ea-bdf5-f35fa75473af": {
+      "filename": "vasteras_261005085510",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005085510",
+      "processed_at": "2026-10-05T09:07:59.431041+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005085510.parquet"
+    },
+    "dd089e8c-a1ac-4f8d-aa68-a8a27339aa01:a92103d5-fe3d-4cf7-a120-6a2a95ea2be9": {
+      "filename": "vasteras_261005091016",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005091016",
+      "processed_at": "2026-10-05T09:12:15.433322+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005091016.parquet"
+    },
+    "b3284051-7de6-4221-8fc8-730d43944d34:240540e0-89c7-4281-8774-eb558c38370c": {
+      "filename": "vasteras_261005092508",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005092508",
+      "processed_at": "2026-10-05T09:27:15.590074+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005092508.parquet"
+    },
+    "bc20d442-e254-4e93-8964-fcd05fbe4c16:99ddf09f-745a-4a56-a4ec-f4e03f11e4fa": {
+      "filename": "vasteras_261005094010",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005094010",
+      "processed_at": "2026-10-05T09:42:14.657506+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005094010.parquet"
+    },
+    "71252c2e-d228-42e1-a3f3-3b0fc57909f0:50fd81db-ddd8-402c-8047-1c381f643f85": {
+      "filename": "vasteras_261005095511",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005095511",
+      "processed_at": "2026-10-05T09:57:15.499948+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005095511.parquet"
+    },
+    "47a81028-8cf5-4773-baa9-0efe0164a0be:8c6abe38-f6bd-414d-827b-e6416fc99fea": {
+      "filename": "vasteras_261005101022",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005101022",
+      "processed_at": "2026-10-05T10:12:14.426627+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005101022.parquet"
+    },
+    "3a225748-1e07-44c7-beac-36ef6f74e3e4:139b1785-edfa-48c7-bd20-fe1e21317e33": {
+      "filename": "vasteras_261005102508",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005102508",
+      "processed_at": "2026-10-05T10:27:14.410291+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005102508.parquet"
+    },
+    "369caf82-da5b-4b8f-a9e5-6a769ace926d:98a6621f-55d6-49a1-a47a-fa9a0a98b0bb": {
+      "filename": "vasteras_261005104009",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005104009",
+      "processed_at": "2026-10-05T10:42:13.960802+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005104009.parquet"
+    },
+    "49287c6f-576c-4f28-8ea2-4d2bebba49f6:32210baa-aae9-468b-ac7d-6479462e5a7b": {
+      "filename": "vasteras_261005105510",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005105510",
+      "processed_at": "2026-10-05T10:57:14.852172+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005105510.parquet"
+    },
+    "e21147fb-ed54-4b0a-9987-b76dad876157:20cb867f-ad09-4fb4-81da-e5dad875dc98": {
+      "filename": "vasteras_261005111012",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005111012",
+      "processed_at": "2026-10-05T11:12:15.042883+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005111012.parquet"
+    },
+    "f16f48c9-4fc9-4525-b221-12b2b5515d4c:8e819dd7-c40d-4573-bff1-15180c0a7101": {
+      "filename": "vasteras_261005112508",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005112508",
+      "processed_at": "2026-10-05T11:27:19.968117+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005112508.parquet"
+    },
+    "25895860-3347-4dd6-b16d-4d5b344c12ef:a9fc77ea-3961-48d9-bc72-4591cf3a1122": {
+      "filename": "vasteras_261005114009",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005114009",
+      "processed_at": "2026-10-05T11:42:14.558850+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005114009.parquet"
+    },
+    "1eb5d8a2-31dc-4323-9b42-1ce3324e6bbe:dbea8ec1-8d06-4529-85a0-0a32bfbc5cb8": {
+      "filename": "vasteras_261005115509",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005115509",
+      "processed_at": "2026-10-05T11:57:13.979540+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005115509.parquet"
+    },
+    "fbb11d26-60a9-4a48-8db1-c3a40f9d9deb:d66b95c3-b56d-494d-96e5-0589f591946b": {
+      "filename": "vasteras_261005121011",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005121011",
+      "processed_at": "2026-10-05T12:12:14.919946+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005121011.parquet"
+    },
+    "c4a80ed1-1303-459d-971c-d97d3b3f7ed8:3b9d12b0-fae5-4ec5-a973-30a986719570": {
+      "filename": "vasteras_261005122508",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005122508",
+      "processed_at": "2026-10-05T12:27:13.720738+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005122508.parquet"
+    },
+    "9989a4b9-ff53-4cb5-97ec-09a864f809ed:031f30a5-1a39-4d92-af83-043a0255b420": {
+      "filename": "vasteras_261005124009",
+      "remote_path": "/Shared/VASTERAS/2026-10-05/vasteras_261005124009",
+      "processed_at": "2026-10-05T12:42:14.047716+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\vasteras\\2026-10-05\\vasteras_261005124009.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

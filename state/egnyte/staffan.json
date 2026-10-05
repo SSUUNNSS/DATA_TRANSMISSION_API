@@ -1,0 +1,113 @@
+{
+  "processed_files": {
+    "caa3e6ac-6ad6-495c-ad9c-6bc6ad4d0dc9:0c589506-f2f2-414e-acf9-9ccde9060963": {
+      "filename": "staffanstorp_261005082501",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005082501",
+      "processed_at": "2026-10-05T09:13:32.780209+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005082501.parquet"
+    },
+    "d1edff59-def0-499b-9840-d6c749849cef:b60178e9-d4b9-4a60-8b73-e6df870e1bad": {
+      "filename": "staffanstorp_261005084001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005084001",
+      "processed_at": "2026-10-05T09:13:34.737232+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005084001.parquet"
+    },
+    "ce49ca86-22e0-4d97-b7b6-9cd40e187bb0:5f07e1d3-3344-42d5-b501-b00d60fd6042": {
+      "filename": "staffanstorp_261005085501",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005085501",
+      "processed_at": "2026-10-05T09:13:36.590017+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005085501.parquet"
+    },
+    "b3d74dbf-07f3-4fa8-8437-5e90d1f6128b:089dce49-409e-474b-a8eb-f431a5bfd5c9": {
+      "filename": "staffanstorp_261005091001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005091001",
+      "processed_at": "2026-10-05T09:13:38.066817+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005091001.parquet"
+    },
+    "c8474848-f800-46e5-a318-959e28be764b:c9468026-3fd8-4e7b-845c-06ca8e3c3c49": {
+      "filename": "staffanstorp_261005092500",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005092500",
+      "processed_at": "2026-10-05T09:27:47.104033+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005092500.parquet"
+    },
+    "fd6bb5ca-226a-4f88-9150-e26dea19aeb6:b66e7386-8188-4a13-b324-df35231e2995": {
+      "filename": "staffanstorp_261005094001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005094001",
+      "processed_at": "2026-10-05T09:42:48.893252+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005094001.parquet"
+    },
+    "92dbe18a-5d05-4df0-b1f7-1ae87adce81d:9b18d3db-1cb0-4bcc-b60e-a5052b21d400": {
+      "filename": "staffanstorp_261005095501",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005095501",
+      "processed_at": "2026-10-05T09:57:51.817843+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005095501.parquet"
+    },
+    "b97247b2-5dc0-4154-b3be-6ff82130d31e:d9a6f678-8c97-4536-b894-d05416d5da87": {
+      "filename": "staffanstorp_261005101002",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005101002",
+      "processed_at": "2026-10-05T10:12:48.290995+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005101002.parquet"
+    },
+    "83238622-d795-46ee-82a2-5cc07980adf3:353899a3-df8d-47d1-8f5b-edecec534702": {
+      "filename": "staffanstorp_261005102500",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005102500",
+      "processed_at": "2026-10-05T10:27:47.466423+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005102500.parquet"
+    },
+    "5a825c9d-ca7b-41c9-9637-7bf271686123:27064e27-6b7a-4ba9-941c-42c35f06c757": {
+      "filename": "staffanstorp_261005104001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005104001",
+      "processed_at": "2026-10-05T10:42:46.161596+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005104001.parquet"
+    },
+    "62c3ccf8-3d78-441c-bb2e-6707c22ad6de:6ab9e4f0-d31b-48f5-9e84-264acb07905b": {
+      "filename": "staffanstorp_261005105500",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005105500",
+      "processed_at": "2026-10-05T10:57:46.383053+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005105500.parquet"
+    },
+    "bb050d1a-1e45-4c4d-8381-ee70a9892ba2:dfd09a5b-4f72-40f0-8464-4597b73557da": {
+      "filename": "staffanstorp_261005111006",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005111006",
+      "processed_at": "2026-10-05T11:12:49.174792+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005111006.parquet"
+    },
+    "df53c280-6e35-451e-af5e-158cacb4ef05:a68365df-525b-4903-8e0b-778779ca4e3b": {
+      "filename": "staffanstorp_261005112500",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005112500",
+      "processed_at": "2026-10-05T11:27:54.636181+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005112500.parquet"
+    },
+    "5182cab8-fc89-4e73-9311-084340c1dd24:71b0763a-0f68-401a-b50d-10aa6ef03174": {
+      "filename": "staffanstorp_261005114001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005114001",
+      "processed_at": "2026-10-05T11:42:46.978779+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005114001.parquet"
+    },
+    "19aabd3f-4ecf-431d-ab56-a7912c052ffb:8871bb6b-710b-4a94-9bf8-069c6868fa03": {
+      "filename": "staffanstorp_261005115501",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005115501",
+      "processed_at": "2026-10-05T11:57:46.229555+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005115501.parquet"
+    },
+    "a3163b2e-2e0e-47e1-aa26-844dde18e72b:2b02257f-c50a-410f-9581-d235cd9db6a2": {
+      "filename": "staffanstorp_261005121001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005121001",
+      "processed_at": "2026-10-05T12:12:48.986671+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005121001.parquet"
+    },
+    "f9d9dfa5-e930-42b2-bfaa-d71339d9b176:2396adcf-f4d0-4ca3-8449-f296b8b6eb0b": {
+      "filename": "staffanstorp_261005122500",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005122500",
+      "processed_at": "2026-10-05T12:27:46.474425+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005122500.parquet"
+    },
+    "2c232f70-f6de-46a2-bae5-1dd6e30fba58:ced8a455-65bd-45f4-987d-0cd92d502085": {
+      "filename": "staffanstorp_261005124001",
+      "remote_path": "/Shared/STAFFANSTORP/2026-10-05/staffanstorp_261005124001",
+      "processed_at": "2026-10-05T12:42:47.134501+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\staffan\\2026-10-05\\staffanstorp_261005124001.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

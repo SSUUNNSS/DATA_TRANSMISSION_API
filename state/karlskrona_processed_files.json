@@ -603,6 +603,186 @@
       "messages_published": 1261,
       "messages_failed": 0,
       "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005082504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:08:16.431622+00:00",
+      "send_mode": "normal",
+      "records_read": 5816,
+      "messages_built": 3391,
+      "messages_published": 3391,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005084005.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:09:26.395555+00:00",
+      "send_mode": "normal",
+      "records_read": 6594,
+      "messages_built": 3877,
+      "messages_published": 3877,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005085504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:10:24.663428+00:00",
+      "send_mode": "normal",
+      "records_read": 5949,
+      "messages_built": 3350,
+      "messages_published": 3350,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005091011.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:18.310429+00:00",
+      "send_mode": "normal",
+      "records_read": 6495,
+      "messages_built": 3803,
+      "messages_published": 3803,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005092504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:28:09.498288+00:00",
+      "send_mode": "normal",
+      "records_read": 6018,
+      "messages_built": 3524,
+      "messages_published": 3524,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005094005.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:42:59.723024+00:00",
+      "send_mode": "normal",
+      "records_read": 5242,
+      "messages_built": 2906,
+      "messages_published": 2906,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005095506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:58:13.357901+00:00",
+      "send_mode": "normal",
+      "records_read": 6121,
+      "messages_built": 3606,
+      "messages_published": 3606,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005101012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:13:20.623751+00:00",
+      "send_mode": "normal",
+      "records_read": 6173,
+      "messages_built": 3471,
+      "messages_published": 3471,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005102504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:27:59.112036+00:00",
+      "send_mode": "normal",
+      "records_read": 5307,
+      "messages_built": 2874,
+      "messages_published": 2874,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005104005.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:42:55.784367+00:00",
+      "send_mode": "normal",
+      "records_read": 5184,
+      "messages_built": 2813,
+      "messages_published": 2813,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005105505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:58:12.203738+00:00",
+      "send_mode": "normal",
+      "records_read": 6410,
+      "messages_built": 3742,
+      "messages_published": 3742,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005111007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:13:15.305664+00:00",
+      "send_mode": "normal",
+      "records_read": 6697,
+      "messages_built": 3673,
+      "messages_published": 3673,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005112504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:28:20.340874+00:00",
+      "send_mode": "normal",
+      "records_read": 6805,
+      "messages_built": 3810,
+      "messages_published": 3810,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005114004.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:16.706983+00:00",
+      "send_mode": "normal",
+      "records_read": 7164,
+      "messages_built": 3914,
+      "messages_published": 3914,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005115505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:18.073088+00:00",
+      "send_mode": "normal",
+      "records_read": 7241,
+      "messages_built": 4026,
+      "messages_published": 4026,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005121006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:13:20.684184+00:00",
+      "send_mode": "normal",
+      "records_read": 7313,
+      "messages_built": 4097,
+      "messages_published": 4097,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005122504.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:25.622926+00:00",
+      "send_mode": "normal",
+      "records_read": 7781,
+      "messages_built": 4473,
+      "messages_published": 4473,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/karlskrona_261005124005.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:27.897868+00:00",
+      "send_mode": "normal",
+      "records_read": 7826,
+      "messages_built": 4593,
+      "messages_published": 4593,
+      "messages_failed": 0,
+      "messages_skipped": 0
     }
   }
 }

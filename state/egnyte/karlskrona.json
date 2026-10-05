@@ -1,0 +1,318 @@
+{
+  "processed_files": {
+    "6c7dfd78-731b-40a8-bf6d-447d4bd16898:99bea091-0cfa-4043-b572-d7c729e32d44": {
+      "filename": "karlskrona_261005081006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005081006",
+      "initialized_at": "2026-10-05T08:29:29.308158+00:00"
+    },
+    "361a1efa-bd1a-42d3-abe8-1f387f14bec2:3fc19537-ac2c-4fa4-98a8-30d507b8916d": {
+      "filename": "karlskrona_261005075505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005075505",
+      "initialized_at": "2026-10-05T08:29:29.308205+00:00"
+    },
+    "d4c62454-c4a4-459e-8033-2a318423f9db:483b8c31-6a17-4c60-973f-1e16d030dd6d": {
+      "filename": "karlskrona_261005074004",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005074004",
+      "initialized_at": "2026-10-05T08:29:29.308226+00:00"
+    },
+    "32c5fd23-6624-46f2-b880-cea38b267d13:de38a54f-1939-422f-a219-4a73415295b8": {
+      "filename": "karlskrona_261005072504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005072504",
+      "initialized_at": "2026-10-05T08:29:29.308245+00:00"
+    },
+    "2519c2f8-aca6-45e5-9e02-f58c7961e78c:26846b64-ba8e-41a7-a808-41c7e8a20d88": {
+      "filename": "karlskrona_261005071006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005071006",
+      "initialized_at": "2026-10-05T08:29:29.308262+00:00"
+    },
+    "0704bf80-b7f7-4669-aadb-dfef872383fd:796fbc11-0e46-48a3-8ffb-40e30918ba3d": {
+      "filename": "karlskrona_261005065505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005065505",
+      "initialized_at": "2026-10-05T08:29:29.308276+00:00"
+    },
+    "4f1d441a-51cd-4b14-92ff-fd91fc795389:45ce53c9-bdf0-4e99-a146-4a813f9d2b38": {
+      "filename": "karlskrona_261005064005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005064005",
+      "initialized_at": "2026-10-05T08:29:29.308293+00:00"
+    },
+    "c6ff4bb8-968b-402f-8ec9-0fbc2d53a707:0253ca25-3fe7-4381-a30a-bcb1f0651eb3": {
+      "filename": "karlskrona_261005062504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005062504",
+      "initialized_at": "2026-10-05T08:29:29.308308+00:00"
+    },
+    "cd4f924e-9fdb-47f7-881b-7a6ef93e5250:4b7ad722-b081-44e8-8a40-b31e285f91cd": {
+      "filename": "karlskrona_261005061006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005061006",
+      "initialized_at": "2026-10-05T08:29:29.308322+00:00"
+    },
+    "49e3419b-ddec-4832-bb02-0090453e0160:6ceab019-605c-4fd5-af10-f76a8fa1c98c": {
+      "filename": "karlskrona_261005055505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005055505",
+      "initialized_at": "2026-10-05T08:29:29.308336+00:00"
+    },
+    "50a9421d-72e8-4541-a988-12f05c1a8f55:9d570576-3747-4766-80fa-1cd43910e4a7": {
+      "filename": "karlskrona_261005054006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005054006",
+      "initialized_at": "2026-10-05T08:29:29.308352+00:00"
+    },
+    "cb4fb280-8273-4c99-b21d-ce9a4bca271b:7f2f0633-af5f-4e8f-9480-717a1bee94da": {
+      "filename": "karlskrona_261005052504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005052504",
+      "initialized_at": "2026-10-05T08:29:29.308367+00:00"
+    },
+    "539e8eef-f3e0-4d4c-99a4-83d67a1c6077:e8474aa0-d1e8-4f93-854d-582d2c8b5abf": {
+      "filename": "karlskrona_261005051010",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005051010",
+      "initialized_at": "2026-10-05T08:29:29.308382+00:00"
+    },
+    "366674a6-7290-489a-875d-2482981c812b:5e3993ea-5002-4973-93ef-2353863a9f5b": {
+      "filename": "karlskrona_261005045504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005045504",
+      "initialized_at": "2026-10-05T08:29:29.308396+00:00"
+    },
+    "a78cc0f9-79e7-4456-84c1-a16cd1311fc4:d2ba879c-0cf6-4d70-aef7-b61cd45ddf58": {
+      "filename": "karlskrona_261005044005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005044005",
+      "initialized_at": "2026-10-05T08:29:29.308411+00:00"
+    },
+    "d941eef5-4ccc-4a75-aff6-c982ab4590ab:eb818a21-e81c-42c7-853c-88e05ed2641a": {
+      "filename": "karlskrona_261005042504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005042504",
+      "initialized_at": "2026-10-05T08:29:29.308425+00:00"
+    },
+    "1b3cff1e-cb14-4ff3-9e6f-ef83738750e2:d45a2ea1-7e5d-438f-b985-c218369228db": {
+      "filename": "karlskrona_261005041006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005041006",
+      "initialized_at": "2026-10-05T08:29:29.308439+00:00"
+    },
+    "bc349279-08a6-4585-8ace-decec9a595cd:795c3e36-2ad5-4bec-b67c-518e6631b388": {
+      "filename": "karlskrona_261005035505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005035505",
+      "initialized_at": "2026-10-05T08:29:29.308453+00:00"
+    },
+    "2a9e8da1-0e09-4eb8-bc6d-8a597fc7b35a:b745af87-5c5c-47f8-895f-fab762d56ac4": {
+      "filename": "karlskrona_261005034004",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005034004",
+      "initialized_at": "2026-10-05T08:29:29.308466+00:00"
+    },
+    "03283fd6-1e82-491e-8029-833c83c61c72:6a21cdd4-818a-43f2-8ccb-64e2f116312d": {
+      "filename": "karlskrona_261005032504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005032504",
+      "initialized_at": "2026-10-05T08:29:29.308480+00:00"
+    },
+    "dd141f4c-1051-4995-a90c-290994192ebb:42cbb543-d805-4b0b-962e-5a34c66b6da5": {
+      "filename": "karlskrona_261005031016",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005031016",
+      "initialized_at": "2026-10-05T08:29:29.308493+00:00"
+    },
+    "5c4df465-f9ed-4c4f-9758-4d59449f4681:a85c2968-7958-4150-b75c-efcb4e48a97f": {
+      "filename": "karlskrona_261005025505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005025505",
+      "initialized_at": "2026-10-05T08:29:29.308507+00:00"
+    },
+    "fb4e365b-b6d6-49a6-bb15-5819fb3cece0:b09cfa3d-69b9-4590-8615-82bda5651670": {
+      "filename": "karlskrona_261005024005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005024005",
+      "initialized_at": "2026-10-05T08:29:29.308523+00:00"
+    },
+    "64b46797-d444-41f2-bff9-6303ee52e139:eb116b52-ecd5-4178-b07a-9830fdd61495": {
+      "filename": "karlskrona_261005022503",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005022503",
+      "initialized_at": "2026-10-05T08:29:29.308537+00:00"
+    },
+    "649a9e9e-6b9e-4d23-a384-9af95252e6b0:d71469dd-a33e-4cfd-ae46-b8cbdf318913": {
+      "filename": "karlskrona_261005021006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005021006",
+      "initialized_at": "2026-10-05T08:29:29.308551+00:00"
+    },
+    "6a3997f0-444a-438a-8ffa-f09b6245f053:ac0d406c-ef4f-4fe3-8213-ec3f5f3b91e9": {
+      "filename": "karlskrona_261005015505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005015505",
+      "initialized_at": "2026-10-05T08:29:29.308566+00:00"
+    },
+    "35421b10-b051-46d3-8c9c-d155daad3df2:f99fa58c-668f-43ff-ac15-9ce027932604": {
+      "filename": "karlskrona_261005014005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005014005",
+      "initialized_at": "2026-10-05T08:29:29.308580+00:00"
+    },
+    "f266cc68-55db-4e7e-a06d-05d670847f48:88e76815-20ab-40e5-a75f-702a205dbba5": {
+      "filename": "karlskrona_261005012503",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005012503",
+      "initialized_at": "2026-10-05T08:29:29.308594+00:00"
+    },
+    "158ed583-7709-49bc-89b4-8cb593f27ebc:f8cf35a7-19d0-46de-b8e8-a8f8dff2419f": {
+      "filename": "karlskrona_261005011006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005011006",
+      "initialized_at": "2026-10-05T08:29:29.308607+00:00"
+    },
+    "e94edc86-2edd-4a37-89ed-af560f46d750:77b6e8a4-0390-418c-b5f7-114bb51bb20a": {
+      "filename": "karlskrona_261005005505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005005505",
+      "initialized_at": "2026-10-05T08:29:29.308621+00:00"
+    },
+    "405f60a4-6072-4898-bb60-516e688087eb:ffa9181c-e002-4e33-96dc-9299c782c308": {
+      "filename": "karlskrona_261005004005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005004005",
+      "initialized_at": "2026-10-05T08:29:29.308634+00:00"
+    },
+    "79ebaa53-b012-49d7-96c6-24c09b70a415:1b40b2f2-8585-47e4-af78-1423a3ba2c0c": {
+      "filename": "karlskrona_261005002504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005002504",
+      "initialized_at": "2026-10-05T08:29:29.308648+00:00"
+    },
+    "15ab7f95-db29-4ec9-bdd2-f6ad05a114f1:627e4d62-fabe-46ad-bd0b-3d352f92da02": {
+      "filename": "karlskrona_261005001006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005001006",
+      "initialized_at": "2026-10-05T08:29:29.308661+00:00"
+    },
+    "6a0665e6-c76f-498a-bb5b-ec7053c144ee:46afbd1c-2d30-46d4-af94-5ede9e927766": {
+      "filename": "karlskrona_261004235505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004235505",
+      "initialized_at": "2026-10-05T08:29:29.308675+00:00"
+    },
+    "048c872d-421a-420c-881d-e5b8004c1899:bc8b2c60-d981-4385-8418-51a3ef998a44": {
+      "filename": "karlskrona_261004234004",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004234004",
+      "initialized_at": "2026-10-05T08:29:29.308688+00:00"
+    },
+    "d3349116-a3a9-4b62-98fe-ee494d520f80:bfc4adbf-536f-48e6-a8d9-d4bd61c3e511": {
+      "filename": "karlskrona_261004232504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004232504",
+      "initialized_at": "2026-10-05T08:29:29.308701+00:00"
+    },
+    "38722fb8-fc31-4f88-b5dc-0c94e20e46f6:26f60d3b-32c9-42d8-94ed-2694827c7dfb": {
+      "filename": "karlskrona_261004231009",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004231009",
+      "initialized_at": "2026-10-05T08:29:29.308715+00:00"
+    },
+    "aa73028f-ff81-4234-bc31-695b169563d2:b903d743-88f8-4162-aa11-816f6161d366": {
+      "filename": "karlskrona_261004225505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004225505",
+      "initialized_at": "2026-10-05T08:29:29.308729+00:00"
+    },
+    "df3a6ae3-29ea-4942-ad73-ce171e794bbb:d3fd9666-84f1-4e89-9607-c3d2c56e1a1e": {
+      "filename": "karlskrona_261004224005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004224005",
+      "initialized_at": "2026-10-05T08:29:29.308742+00:00"
+    },
+    "3c626e41-7881-47af-bf8f-a709a4fe0235:7bfeee19-8a51-49d3-a7e9-0fcd052ed8e8": {
+      "filename": "karlskrona_261004222504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004222504",
+      "initialized_at": "2026-10-05T08:29:29.308756+00:00"
+    },
+    "3c21ace4-b688-4778-967a-7c2eef334712:29e3cd6a-cd25-461e-9efe-a2b8e0e76865": {
+      "filename": "karlskrona_261004221033",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261004221033",
+      "initialized_at": "2026-10-05T08:29:29.308769+00:00"
+    },
+    "f0d85ece-900e-4d8a-a404-ffc50dcfc1bf:de5ab2d5-22f4-46a8-93c3-b61bb354deb0": {
+      "filename": "karlskrona_261005082504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005082504",
+      "processed_at": "2026-10-05T09:07:28.974149+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005082504.parquet"
+    },
+    "41607950-0a4f-43ae-b691-ebbcf905a74a:5384b3b7-7d0c-4cf8-aa3e-a40f8b54e5d0": {
+      "filename": "karlskrona_261005084005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005084005",
+      "processed_at": "2026-10-05T09:07:29.557351+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005084005.parquet"
+    },
+    "cc2fc14d-dd29-4d7d-bf22-046b6c7579a5:0d6932ef-20c3-4c9e-a538-f8accd13aeef": {
+      "filename": "karlskrona_261005085504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005085504",
+      "processed_at": "2026-10-05T09:07:31.242576+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005085504.parquet"
+    },
+    "20150905-d059-4676-aee6-707e9e195d1c:9718de28-fa98-4a19-8606-04ede2183242": {
+      "filename": "karlskrona_261005091011",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005091011",
+      "processed_at": "2026-10-05T09:12:02.766266+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005091011.parquet"
+    },
+    "e4330de3-157e-43e9-af0b-660279f96a3a:1f5dbdc3-4070-47f8-8edb-c5580715ab38": {
+      "filename": "karlskrona_261005092504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005092504",
+      "processed_at": "2026-10-05T09:27:02.691611+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005092504.parquet"
+    },
+    "936d2a4c-1a57-495f-beb5-0c1b3918377f:ecd845ed-48fb-4c00-a881-7775c8b6fd2d": {
+      "filename": "karlskrona_261005094005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005094005",
+      "processed_at": "2026-10-05T09:42:02.751777+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005094005.parquet"
+    },
+    "22b15b32-a2b8-43b4-afad-7af44d8eda1a:3562a424-7476-401f-b09c-7fb34b44b5af": {
+      "filename": "karlskrona_261005095506",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005095506",
+      "processed_at": "2026-10-05T09:57:02.444653+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005095506.parquet"
+    },
+    "5df8d6bd-a815-431c-b54a-4395604774e9:829c52e2-86e4-4b80-8422-69ef92c10fd4": {
+      "filename": "karlskrona_261005101012",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005101012",
+      "processed_at": "2026-10-05T10:12:02.492651+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005101012.parquet"
+    },
+    "2fe37d38-751f-4fb5-a93d-eec00fbdfa68:4548b700-be55-4806-931d-75103ed09244": {
+      "filename": "karlskrona_261005102504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005102504",
+      "processed_at": "2026-10-05T10:27:02.481904+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005102504.parquet"
+    },
+    "202d8ae0-2cc3-4646-b950-dbd6daf68bae:645f8262-6846-462b-a0c4-3a0f46d00841": {
+      "filename": "karlskrona_261005104005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005104005",
+      "processed_at": "2026-10-05T10:42:02.408617+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005104005.parquet"
+    },
+    "5555d6f3-d7ae-44ed-97f2-0356aa77c204:c9b7b157-ff99-48d2-9958-9966b60f0cca": {
+      "filename": "karlskrona_261005105505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005105505",
+      "processed_at": "2026-10-05T10:57:02.642787+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005105505.parquet"
+    },
+    "3f28c007-c7e1-4c09-8515-a985386e7f79:9e86bc3d-709b-412a-84bf-ebec2ef087ac": {
+      "filename": "karlskrona_261005111007",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005111007",
+      "processed_at": "2026-10-05T11:12:02.803153+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005111007.parquet"
+    },
+    "203d058a-6657-4427-a0b8-eeb7b6dbce21:55917214-7e22-4994-b57d-36f5b9467566": {
+      "filename": "karlskrona_261005112504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005112504",
+      "processed_at": "2026-10-05T11:27:07.501816+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005112504.parquet"
+    },
+    "8a12ceac-9a20-43e2-b95b-78768153b3bd:960463d3-918a-4f50-a1b7-28ef092e7703": {
+      "filename": "karlskrona_261005114004",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005114004",
+      "processed_at": "2026-10-05T11:42:02.755958+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005114004.parquet"
+    },
+    "cd4b6106-b07b-48f0-bc85-52cb4d929555:d0c27216-fb89-4f22-b887-35008dc2d62d": {
+      "filename": "karlskrona_261005115505",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005115505",
+      "processed_at": "2026-10-05T11:57:02.430664+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005115505.parquet"
+    },
+    "3732f1f6-510b-4b22-8525-0750be47c250:8936d682-f3d1-4e56-8823-da0fddfb8cf1": {
+      "filename": "karlskrona_261005121006",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005121006",
+      "processed_at": "2026-10-05T12:12:03.006115+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005121006.parquet"
+    },
+    "db598400-0084-4895-bc4b-bf1d2d49fb44:c537cb68-f2e8-48dd-86d5-cbd6b51ff383": {
+      "filename": "karlskrona_261005122504",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005122504",
+      "processed_at": "2026-10-05T12:27:02.816671+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005122504.parquet"
+    },
+    "b324c621-4a44-48eb-9074-1111b45cfa0d:671657c9-bf05-45e9-a86f-44899b612c84": {
+      "filename": "karlskrona_261005124005",
+      "remote_path": "/Shared/KARLSKRONA/2026-10-05/karlskrona_261005124005",
+      "processed_at": "2026-10-05T12:42:02.639780+00:00",
+      "parquet_path": "C:\\Users\\ShengyangSun\\Desktop\\Data_Transmission_Ingrid\\Data_Transmission_Ingrid\\src\\sourceData\\normal\\karlskrona\\2026-10-05\\karlskrona_261005124005.parquet"
+    }
+  },
+  "baseline_before": "2026-10-05T10:25:00+02:00"
+}

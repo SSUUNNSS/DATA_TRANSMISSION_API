@@ -9,6 +9,176 @@
       "messages_published": 3472,
       "messages_failed": 0,
       "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005082506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:51.436128+00:00",
+      "send_mode": "normal",
+      "records_read": 17734,
+      "messages_built": 10296,
+      "messages_published": 10296,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005084007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:14:36.781382+00:00",
+      "send_mode": "normal",
+      "records_read": 17121,
+      "messages_built": 10158,
+      "messages_published": 10158,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005085508.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:16:31.234333+00:00",
+      "send_mode": "normal",
+      "records_read": 16518,
+      "messages_built": 9726,
+      "messages_published": 9726,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005091014.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:18:30.919860+00:00",
+      "send_mode": "normal",
+      "records_read": 18762,
+      "messages_built": 10814,
+      "messages_published": 10814,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005092506.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:30:16.063937+00:00",
+      "send_mode": "normal",
+      "records_read": 16877,
+      "messages_built": 10160,
+      "messages_published": 10160,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005094007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:45:14.428699+00:00",
+      "send_mode": "normal",
+      "records_read": 17542,
+      "messages_built": 10132,
+      "messages_published": 10132,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005095507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:00:18.896073+00:00",
+      "send_mode": "normal",
+      "records_read": 15886,
+      "messages_built": 9674,
+      "messages_published": 9674,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005101009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:15:17.445929+00:00",
+      "send_mode": "normal",
+      "records_read": 18796,
+      "messages_built": 10696,
+      "messages_published": 10696,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005102505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:29:59.626904+00:00",
+      "send_mode": "normal",
+      "records_read": 16920,
+      "messages_built": 9946,
+      "messages_published": 9946,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005104006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:45:09.332877+00:00",
+      "send_mode": "normal",
+      "records_read": 18541,
+      "messages_built": 10901,
+      "messages_published": 10901,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005105507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:00:15.103849+00:00",
+      "send_mode": "normal",
+      "records_read": 17865,
+      "messages_built": 10882,
+      "messages_published": 10882,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005111018.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:15:15.738138+00:00",
+      "send_mode": "normal",
+      "records_read": 17462,
+      "messages_built": 10590,
+      "messages_published": 10590,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005112505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:30:18.078393+00:00",
+      "send_mode": "normal",
+      "records_read": 17074,
+      "messages_built": 10345,
+      "messages_published": 10345,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005114006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:45:06.305312+00:00",
+      "send_mode": "normal",
+      "records_read": 16930,
+      "messages_built": 9928,
+      "messages_published": 9928,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005115507.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:00:05.818865+00:00",
+      "send_mode": "normal",
+      "records_read": 17217,
+      "messages_built": 10013,
+      "messages_published": 10013,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005121012.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:15:20.799017+00:00",
+      "send_mode": "normal",
+      "records_read": 17027,
+      "messages_built": 10536,
+      "messages_published": 10536,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005122505.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:30:04.720081+00:00",
+      "send_mode": "normal",
+      "records_read": 16514,
+      "messages_built": 9971,
+      "messages_published": 9971,
+      "messages_failed": 0,
+      "messages_skipped": 0
     }
   }
 }

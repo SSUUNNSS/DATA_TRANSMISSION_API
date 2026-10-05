@@ -1,0 +1,184 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/staffanstorp_261005082501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:14:39.929901+00:00",
+      "send_mode": "normal",
+      "records_read": 7148,
+      "messages_built": 4051,
+      "messages_published": 4051,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005084001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:15:27.734998+00:00",
+      "send_mode": "normal",
+      "records_read": 6594,
+      "messages_built": 3710,
+      "messages_published": 3710,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005085501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:16:13.974514+00:00",
+      "send_mode": "normal",
+      "records_read": 7009,
+      "messages_built": 3918,
+      "messages_published": 3918,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005091001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:17:08.164497+00:00",
+      "send_mode": "normal",
+      "records_read": 8206,
+      "messages_built": 4388,
+      "messages_published": 4388,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005092500.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:29:06.147626+00:00",
+      "send_mode": "normal",
+      "records_read": 6461,
+      "messages_built": 3829,
+      "messages_published": 3829,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005094001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:44:13.843222+00:00",
+      "send_mode": "normal",
+      "records_read": 7105,
+      "messages_built": 4096,
+      "messages_published": 4096,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005095501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:14.952447+00:00",
+      "send_mode": "normal",
+      "records_read": 7056,
+      "messages_built": 3967,
+      "messages_published": 3967,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005101002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:14:09.244843+00:00",
+      "send_mode": "normal",
+      "records_read": 8145,
+      "messages_built": 4315,
+      "messages_published": 4315,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005102500.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:28:55.473642+00:00",
+      "send_mode": "normal",
+      "records_read": 6922,
+      "messages_built": 3940,
+      "messages_published": 3940,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005104001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:43:54.850988+00:00",
+      "send_mode": "normal",
+      "records_read": 6888,
+      "messages_built": 3944,
+      "messages_published": 3944,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005105500.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:59:02.500498+00:00",
+      "send_mode": "normal",
+      "records_read": 6972,
+      "messages_built": 4014,
+      "messages_published": 4014,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005111006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:14:04.012580+00:00",
+      "send_mode": "normal",
+      "records_read": 8645,
+      "messages_built": 4358,
+      "messages_published": 4358,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005112500.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:29:08.779763+00:00",
+      "send_mode": "normal",
+      "records_read": 7386,
+      "messages_built": 4210,
+      "messages_published": 4210,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005114001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:43:56.184436+00:00",
+      "send_mode": "normal",
+      "records_read": 6340,
+      "messages_built": 3819,
+      "messages_published": 3819,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005115501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:58:53.899106+00:00",
+      "send_mode": "normal",
+      "records_read": 5824,
+      "messages_built": 3644,
+      "messages_published": 3644,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005121001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:14:06.181828+00:00",
+      "send_mode": "normal",
+      "records_read": 7650,
+      "messages_built": 4287,
+      "messages_published": 4287,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005122500.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:28:50.609199+00:00",
+      "send_mode": "normal",
+      "records_read": 5624,
+      "messages_built": 3542,
+      "messages_published": 3542,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/staffanstorp_261005124001.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:43:56.879258+00:00",
+      "send_mode": "normal",
+      "records_read": 5853,
+      "messages_built": 3715,
+      "messages_published": 3715,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}

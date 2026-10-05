@@ -1,0 +1,184 @@
+{
+  "processed_files": {
+    "normal/2026-10-05/kristinehamn_261005082502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:10:26.615383+00:00",
+      "send_mode": "normal",
+      "records_read": 10097,
+      "messages_built": 6133,
+      "messages_published": 6133,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005084003.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:11:56.178913+00:00",
+      "send_mode": "normal",
+      "records_read": 9841,
+      "messages_built": 5987,
+      "messages_published": 5987,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005085503.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:13:49.554484+00:00",
+      "send_mode": "normal",
+      "records_read": 10525,
+      "messages_built": 6408,
+      "messages_published": 6408,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005091004.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:15:20.184237+00:00",
+      "send_mode": "normal",
+      "records_read": 11123,
+      "messages_built": 6567,
+      "messages_published": 6567,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005092502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:29:26.147425+00:00",
+      "send_mode": "normal",
+      "records_read": 10195,
+      "messages_built": 6175,
+      "messages_published": 6175,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005094003.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:44:38.350212+00:00",
+      "send_mode": "normal",
+      "records_read": 10492,
+      "messages_built": 6330,
+      "messages_published": 6330,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005095503.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T09:59:40.660045+00:00",
+      "send_mode": "normal",
+      "records_read": 10596,
+      "messages_built": 6499,
+      "messages_published": 6499,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005101003.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:14:30.405198+00:00",
+      "send_mode": "normal",
+      "records_read": 10461,
+      "messages_built": 6419,
+      "messages_published": 6419,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005102501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:29:22.675490+00:00",
+      "send_mode": "normal",
+      "records_read": 10624,
+      "messages_built": 6457,
+      "messages_published": 6457,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005104002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:44:25.032856+00:00",
+      "send_mode": "normal",
+      "records_read": 10753,
+      "messages_built": 6629,
+      "messages_published": 6629,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005105502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T10:59:27.059050+00:00",
+      "send_mode": "normal",
+      "records_read": 10437,
+      "messages_built": 6396,
+      "messages_published": 6396,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005111009.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:14:23.883576+00:00",
+      "send_mode": "normal",
+      "records_read": 10304,
+      "messages_built": 6372,
+      "messages_published": 6372,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005112502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:29:33.173410+00:00",
+      "send_mode": "normal",
+      "records_read": 10572,
+      "messages_built": 6397,
+      "messages_published": 6397,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005114002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:44:17.523741+00:00",
+      "send_mode": "normal",
+      "records_read": 9669,
+      "messages_built": 6132,
+      "messages_published": 6132,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005115502.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T11:59:26.890947+00:00",
+      "send_mode": "normal",
+      "records_read": 10128,
+      "messages_built": 6268,
+      "messages_published": 6268,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005121007.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:14:28.745945+00:00",
+      "send_mode": "normal",
+      "records_read": 10288,
+      "messages_built": 6268,
+      "messages_published": 6268,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005122501.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:29:17.097446+00:00",
+      "send_mode": "normal",
+      "records_read": 9510,
+      "messages_built": 5865,
+      "messages_published": 5865,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    },
+    "normal/2026-10-05/kristinehamn_261005124002.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:44:18.534672+00:00",
+      "send_mode": "normal",
+      "records_read": 9326,
+      "messages_built": 5844,
+      "messages_published": 5844,
+      "messages_failed": 0,
+      "messages_skipped": 0
+    }
+  }
+}
