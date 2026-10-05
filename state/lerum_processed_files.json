@@ -179,6 +179,16 @@
       "messages_published": 9971,
       "messages_failed": 0,
       "messages_skipped": 0
+    },
+    "normal/2026-10-05/lerum_261005124006.parquet": {
+      "status": "completed",
+      "completed_at": "2026-10-05T12:45:03.312704+00:00",
+      "send_mode": "normal",
+      "records_read": 15802,
+      "messages_built": 9710,
+      "messages_published": 9710,
+      "messages_failed": 0,
+      "messages_skipped": 0
     }
   }
 }
